@@ -1,0 +1,6258 @@
+(base) user@Users-MacBook-Pro course_project_220150019 % make output
+make: `output' is up to date.
+(base) user@Users-MacBook-Pro course_project_220150019 % ./output
+Enter 1 to view the list of students sorted by CPI:
+Enter 2 to view the list of students sorted by branch and CPI
+Enter 3 to view company details:
+Enter 4 to carry out round 1 of the placement process:
+Enter 5 to carry out round 2 of the placement process:
+Enter 6 to view results after round 2:
+Enter 7 to view final results of the placement process(top 5 scorers for each)
+Enter 8 to view employees for each company:
+Enter 9 to view final placement statistics:
+1
+List of students sorted by CPI:
+List of students:
+Branch code: 1
+Branch: CSE
+Roll number: 2001003
+CPI: 9.41
+Number of projects: 4
+Not Placed Yet
+Branch code: 2
+Branch: DSAI
+Roll number: 2002001
+CPI: 9.37
+Number of projects: 4
+Not Placed Yet
+Branch code: 1
+Branch: CSE
+Roll number: 2001002
+CPI: 9.11
+Number of projects: 3
+Not Placed Yet
+Branch code: 3
+Branch: MnC
+Roll number: 2003001
+CPI: 8.95
+Number of projects: 4
+Not Placed Yet
+Branch code: 4
+Branch: ECE
+Roll number: 2004002
+CPI: 8.95
+Number of projects: 4
+Not Placed Yet
+Branch code: 5
+Branch: EEE
+Roll number: 2005002
+CPI: 8.72
+Number of projects: 4
+Not Placed Yet
+Branch code: 6
+Branch: ME
+Roll number: 2006002
+CPI: 8.64
+Number of projects: 3
+Not Placed Yet
+Branch code: 9
+Branch: CL
+Roll number: 2009002
+CPI: 8.47
+Number of projects: 4
+Not Placed Yet
+Branch code: 5
+Branch: EEE
+Roll number: 2005001
+CPI: 8.44
+Number of projects: 3
+Not Placed Yet
+Branch code: 3
+Branch: MnC
+Roll number: 2003003
+CPI: 8.36
+Number of projects: 3
+Not Placed Yet
+Branch code: 1
+Branch: CSE
+Roll number: 2001001
+CPI: 8.35
+Number of projects: 4
+Not Placed Yet
+Branch code: 6
+Branch: ME
+Roll number: 2006001
+CPI: 8.35
+Number of projects: 4
+Not Placed Yet
+Branch code: 11
+Branch: CST
+Roll number: 2011002
+CPI: 8.34
+Number of projects: 3
+Not Placed Yet
+Branch code: 12
+Branch: BSBE
+Roll number: 2012001
+CPI: 8.33
+Number of projects: 0
+Not Placed Yet
+Branch code: 4
+Branch: ECE
+Roll number: 2004001
+CPI: 8.27
+Number of projects: 3
+Not Placed Yet
+Branch code: 7
+Branch: EP
+Roll number: 2007002
+CPI: 8.26
+Number of projects: 3
+Not Placed Yet
+Branch code: 9
+Branch: CL
+Roll number: 2009001
+CPI: 8.22
+Number of projects: 3
+Not Placed Yet
+Branch code: 8
+Branch: EnE
+Roll number: 2008001
+CPI: 8.11
+Number of projects: 4
+Not Placed Yet
+Branch code: 10
+Branch: CE
+Roll number: 2010002
+CPI: 8.11
+Number of projects: 3
+Not Placed Yet
+Branch code: 3
+Branch: MnC
+Roll number: 2003002
+CPI: 7.96
+Number of projects: 4
+Not Placed Yet
+Branch code: 7
+Branch: EP
+Roll number: 2007001
+CPI: 7.93
+Number of projects: 4
+Not Placed Yet
+Branch code: 2
+Branch: DSAI
+Roll number: 2002002
+CPI: 7.91
+Number of projects: 5
+Not Placed Yet
+Branch code: 5
+Branch: EEE
+Roll number: 2005003
+CPI: 7.71
+Number of projects: 4
+Not Placed Yet
+Branch code: 11
+Branch: CST
+Roll number: 2011001
+CPI: 7.59
+Number of projects: 3
+Not Placed Yet
+Branch code: 10
+Branch: CE
+Roll number: 2010001
+CPI: 7.36
+Number of projects: 4
+Not Placed Yet
+Branch code: 4
+Branch: ECE
+Roll number: 2004003
+CPI: 7.17
+Number of projects: 4
+Not Placed Yet
+Branch code: 12
+Branch: BSBE
+Roll number: 2012002
+CPI: 7.12
+Number of projects: 3
+Not Placed Yet
+Branch code: 10
+Branch: CE
+Roll number: 2010003
+CPI: 7.01
+Number of projects: 4
+Not Placed Yet
+Enter N to stop the process, Y to continue:
+Y
+Enter 1 to view the list of students sorted by CPI:
+Enter 2 to view the list of students sorted by branch and CPI
+Enter 3 to view company details:
+Enter 4 to carry out round 1 of the placement process:
+Enter 5 to carry out round 2 of the placement process:
+Enter 6 to view results after round 2:
+Enter 7 to view final results of the placement process(top 5 scorers for each)
+Enter 8 to view employees for each company:
+Enter 9 to view final placement statistics:
+2
+List of students sorted by branch and CPI:
+List of students:
+Branch code: 1
+Branch: CSE
+Roll number: 2001003
+CPI: 9.41
+Number of projects: 4
+Not Placed Yet
+Branch code: 1
+Branch: CSE
+Roll number: 2001002
+CPI: 9.11
+Number of projects: 3
+Not Placed Yet
+Branch code: 1
+Branch: CSE
+Roll number: 2001001
+CPI: 8.35
+Number of projects: 4
+Not Placed Yet
+Branch code: 2
+Branch: DSAI
+Roll number: 2002001
+CPI: 9.37
+Number of projects: 4
+Not Placed Yet
+Branch code: 2
+Branch: DSAI
+Roll number: 2002002
+CPI: 7.91
+Number of projects: 5
+Not Placed Yet
+Branch code: 3
+Branch: MnC
+Roll number: 2003001
+CPI: 8.95
+Number of projects: 4
+Not Placed Yet
+Branch code: 3
+Branch: MnC
+Roll number: 2003003
+CPI: 8.36
+Number of projects: 3
+Not Placed Yet
+Branch code: 3
+Branch: MnC
+Roll number: 2003002
+CPI: 7.96
+Number of projects: 4
+Not Placed Yet
+Branch code: 4
+Branch: ECE
+Roll number: 2004002
+CPI: 8.95
+Number of projects: 4
+Not Placed Yet
+Branch code: 4
+Branch: ECE
+Roll number: 2004001
+CPI: 8.27
+Number of projects: 3
+Not Placed Yet
+Branch code: 4
+Branch: ECE
+Roll number: 2004003
+CPI: 7.17
+Number of projects: 4
+Not Placed Yet
+Branch code: 5
+Branch: EEE
+Roll number: 2005002
+CPI: 8.72
+Number of projects: 4
+Not Placed Yet
+Branch code: 5
+Branch: EEE
+Roll number: 2005001
+CPI: 8.44
+Number of projects: 3
+Not Placed Yet
+Branch code: 5
+Branch: EEE
+Roll number: 2005003
+CPI: 7.71
+Number of projects: 4
+Not Placed Yet
+Branch code: 6
+Branch: ME
+Roll number: 2006002
+CPI: 8.64
+Number of projects: 3
+Not Placed Yet
+Branch code: 6
+Branch: ME
+Roll number: 2006001
+CPI: 8.35
+Number of projects: 4
+Not Placed Yet
+Branch code: 7
+Branch: EP
+Roll number: 2007002
+CPI: 8.26
+Number of projects: 3
+Not Placed Yet
+Branch code: 7
+Branch: EP
+Roll number: 2007001
+CPI: 7.93
+Number of projects: 4
+Not Placed Yet
+Branch code: 8
+Branch: EnE
+Roll number: 2008001
+CPI: 8.11
+Number of projects: 4
+Not Placed Yet
+Branch code: 9
+Branch: CL
+Roll number: 2009002
+CPI: 8.47
+Number of projects: 4
+Not Placed Yet
+Branch code: 9
+Branch: CL
+Roll number: 2009001
+CPI: 8.22
+Number of projects: 3
+Not Placed Yet
+Branch code: 10
+Branch: CE
+Roll number: 2010002
+CPI: 8.11
+Number of projects: 3
+Not Placed Yet
+Branch code: 10
+Branch: CE
+Roll number: 2010001
+CPI: 7.36
+Number of projects: 4
+Not Placed Yet
+Branch code: 10
+Branch: CE
+Roll number: 2010003
+CPI: 7.01
+Number of projects: 4
+Not Placed Yet
+Branch code: 11
+Branch: CST
+Roll number: 2011002
+CPI: 8.34
+Number of projects: 3
+Not Placed Yet
+Branch code: 11
+Branch: CST
+Roll number: 2011001
+CPI: 7.59
+Number of projects: 3
+Not Placed Yet
+Branch code: 12
+Branch: BSBE
+Roll number: 2012001
+CPI: 8.33
+Number of projects: 0
+Not Placed Yet
+Branch code: 12
+Branch: BSBE
+Roll number: 2012002
+CPI: 7.12
+Number of projects: 3
+Not Placed Yet
+Enter N to stop the process, Y to continue:
+Y
+Enter 1 to view the list of students sorted by CPI:
+Enter 2 to view the list of students sorted by branch and CPI
+Enter 3 to view company details:
+Enter 4 to carry out round 1 of the placement process:
+Enter 5 to carry out round 2 of the placement process:
+Enter 6 to view results after round 2:
+Enter 7 to view final results of the placement process(top 5 scorers for each)
+Enter 8 to view employees for each company:
+Enter 9 to view final placement statistics:
+3
+Name: Microsoft
+Year of founding: 1975
+Number of jobs available: 3
+Type: Tech
+Company Tier: A
+Job Title: Software Developer
+CTC: 3.9e+06
+Job Title: Software Engineer
+CTC: 4.9e+06
+Job Title: R&D
+CTC: 6.5e+06
+Branches eligible for the job:
+1.CSE
+2.DSAI
+3.MnC
+4.ECE
+
+Name: Google
+Year of founding: 1998
+Number of jobs available: 3
+Type: Tech
+Company Tier: A
+Job Title: Software Developer
+CTC: 4.5e+06
+Job Title: Software Engineer
+CTC: 5.1e+06
+Job Title: R&D
+CTC: 7e+06
+Branches eligible for the job:
+1.CSE
+2.DSAI
+3.MnC
+4.EEE
+5.ME
+6.EP
+
+Name: Amazon
+Year of founding: 1994
+Number of jobs available: 3
+Type: Tech
+Company Tier: A
+Job Title: Software Developer
+CTC: 4.7e+06
+Job Title: Software Engineer
+CTC: 3.8e+06
+Job Title: R&D
+CTC: 7.3e+06
+Branches eligible for the job:
+1.CSE
+2.DSAI
+3.MnC
+4.EEE
+5.ME
+6.EP
+7.EnE
+8.CL
+9.CE
+10.CST
+11.BSBE
+
+Name: Meta
+Year of founding: 2004
+Number of jobs available: 3
+Type: Tech
+Company Tier: A
+Job Title: Software Developer
+CTC: 4.2e+06
+Job Title: Software Engineer
+CTC: 4.6e+06
+Job Title: R&D
+CTC: 6e+06
+Branches eligible for the job:
+1.CSE
+2.DSAI
+3.MnC
+4.ECE
+
+Name: Goldman Sachs
+Year of founding: 1869
+Number of jobs available: 2
+Type: Finance
+Company Tier: A
+Job Title: Quant
+CTC: 9.3e+06
+Job Title: Algorithmic Trader
+CTC: 1.01e+07
+Branches eligible for the job:
+1.CSE
+2.DSAI
+3.MnC
+4.EP
+
+Name: JP Morgan
+Year of founding: 1871
+Number of jobs available: 2
+Type: Finance
+Company Tier: A
+Job Title: Quant
+CTC: 5.5e+06
+Job Title: Algorithmic Trader
+CTC: 8e+06
+Branches eligible for the job:
+1.CSE
+2.DSAI
+3.MnC
+4.ECE
+
+Name: Jane Street
+Year of founding: 1999
+Number of jobs available: 2
+Type: Finance
+Company Tier: A
+Job Title: Quant
+CTC: 6.3e+06
+Job Title: Algorithmic Trader
+CTC: 7.1e+06
+Branches eligible for the job:
+1.CSE
+2.DSAI
+3.MnC
+
+Name: Larsen & Toubro
+Year of founding: 1946
+Number of jobs available: 1
+Type: Core
+Company Tier: B
+Job Title: Graduate Engineer Trainee
+CTC: 1.5e+06
+Branches eligible for the job:
+1.ECE
+2.EEE
+3.ME
+4.EP
+5.EnE
+6.CL
+7.CE
+
+Name: Reliance Industries
+Year of founding: 1966
+Number of jobs available: 1
+Type: Core
+Company Tier: C
+Job Title: Graduate Engineer Trainee
+CTC: 1.6e+06
+Branches eligible for the job:
+1.ECE
+2.EEE
+3.ME
+4.EP
+5.EnE
+6.CL
+7.CE
+8.CST
+9.BSBE
+
+Name: Mercedes
+Year of founding: 1926
+Number of jobs available: 1
+Type: Core
+Company Tier: B
+Job Title: Graduate Engineer Trainee
+CTC: 1.75e+06
+Branches eligible for the job:
+1.EEE
+2.ME
+3.EP
+4.CST
+5.BSBE
+
+Name: Texas Instruments
+Year of founding: 1930
+Number of jobs available: 1
+Type: Core
+Company Tier: C
+Job Title: Graduate Engineer Trainee
+CTC: 2.35e+06
+Branches eligible for the job:
+1.EEE
+2.ME
+3.EP
+4.CST
+5.BSBE
+
+Name: Samsung
+Year of founding: 1938
+Number of jobs available: 1
+Type: Core
+Company Tier: B
+Job Title: Graduate Engineer Trainee
+CTC: 2.55e+06
+Branches eligible for the job:
+1.ECE
+2.EEE
+3.ME
+4.EP
+
+Name: Lupin Ltd
+Year of founding: 1968
+Number of jobs available: 1
+Type: Core
+Company Tier: C
+Job Title: Graduate Engineer Trainee
+CTC: 1.55e+06
+Branches eligible for the job:
+1.ECE
+2.EEE
+3.ME
+4.EP
+5.EnE
+6.CL
+7.CE
+8.CST
+9.BSBE
+
+Name: Boston Consulting Group
+Year of founding: 1963
+Number of jobs available: 2
+Type: Consulting
+Company Tier: A
+Job Title: Business Analsyt
+CTC: 4.85e+06
+Job Title: Marketing Manager
+CTC: 6.4e+06
+Branches eligible for the job:
+1.CSE
+2.DSAI
+3.MnC
+4.ECE
+
+Name: McKinsey & Company
+Year of founding: 1926
+Number of jobs available: 2
+Type: Consulting
+Company Tier: A
+Job Title: Business Analsyt
+CTC: 5.6e+06
+Job Title: Marketing Manager
+CTC: 5.8e+06
+Branches eligible for the job:
+1.CSE
+2.DSAI
+3.MnC
+4.ECE
+5.ME
+6.EP
+7.EnE
+8.CL
+9.CE
+
+Enter N to stop the process, Y to continue:
+Y
+Enter 1 to view the list of students sorted by CPI:
+Enter 2 to view the list of students sorted by branch and CPI
+Enter 3 to view company details:
+Enter 4 to carry out round 1 of the placement process:
+Enter 5 to carry out round 2 of the placement process:
+Enter 6 to view results after round 2:
+Enter 7 to view final results of the placement process(top 5 scorers for each)
+Enter 8 to view employees for each company:
+Enter 9 to view final placement statistics:
+4
+First round results for: 2001003
+Tech companies:
+Company name: Microsoft
+Software Developer: 98
+Company name: Microsoft
+Software Engineer: 34
+Company name: Microsoft
+R&D: 90
+Company name: Google
+Software Developer: 4
+Company name: Google
+Software Engineer: 31
+Company name: Google
+R&D: 2
+Company name: Amazon
+Software Developer: 91
+Company name: Amazon
+Software Engineer: 89
+Company name: Amazon
+R&D: 86
+Company name: Meta
+Software Developer: 89
+Company name: Meta
+Software Engineer: 3
+Company name: Meta
+R&D: 19
+Core companies:
+Finance companies:
+Company name: Goldman Sachs
+Quant: 50
+Company name: Goldman Sachs
+Algorithmic Trader: 93
+Company name: JP Morgan
+Quant: 19
+Company name: JP Morgan
+Algorithmic Trader: 14
+Company name: Jane Street
+Quant: 13
+Company name: Jane Street
+Algorithmic Trader: 26
+Consulting companies:
+Company name: Boston Consulting Group
+Business Analsyt: 10
+Company name: Boston Consulting Group
+Marketing Manager: 49
+Company name: McKinsey & Company
+Business Analsyt: 63
+Company name: McKinsey & Company
+Marketing Manager: 57
+First round results for: 2001002
+Tech companies:
+Company name: Microsoft
+Software Developer: 69
+Company name: Microsoft
+Software Engineer: 11
+Company name: Microsoft
+R&D: 65
+Company name: Google
+Software Developer: 4
+Company name: Google
+Software Engineer: 86
+Company name: Google
+R&D: 28
+Company name: Amazon
+Software Developer: 84
+Company name: Amazon
+Software Engineer: 11
+Company name: Amazon
+R&D: 56
+Company name: Meta
+Software Developer: 94
+Company name: Meta
+Software Engineer: 33
+Company name: Meta
+R&D: 41
+Core companies:
+Finance companies:
+Company name: Goldman Sachs
+Quant: 46
+Company name: Goldman Sachs
+Algorithmic Trader: 84
+Company name: JP Morgan
+Quant: 96
+Company name: JP Morgan
+Algorithmic Trader: 23
+Company name: Jane Street
+Quant: 33
+Company name: Jane Street
+Algorithmic Trader: 5
+Consulting companies:
+Company name: Boston Consulting Group
+Business Analsyt: 21
+Company name: Boston Consulting Group
+Marketing Manager: 51
+Company name: McKinsey & Company
+Business Analsyt: 49
+Company name: McKinsey & Company
+Marketing Manager: 12
+First round results for: 2001001
+Tech companies:
+Company name: Microsoft
+Software Developer: 58
+Company name: Microsoft
+Software Engineer: 74
+Company name: Microsoft
+R&D: 82
+Company name: Google
+Software Developer: 63
+Company name: Google
+Software Engineer: 75
+Company name: Google
+R&D: 14
+Company name: Amazon
+Software Developer: 21
+Company name: Amazon
+Software Engineer: 33
+Company name: Amazon
+R&D: 49
+Company name: Meta
+Software Developer: 25
+Company name: Meta
+Software Engineer: 42
+Company name: Meta
+R&D: 45
+Core companies:
+Finance companies:
+Company name: Goldman Sachs
+Quant: 28
+Company name: Goldman Sachs
+Algorithmic Trader: 74
+Company name: JP Morgan
+Quant: 76
+Company name: JP Morgan
+Algorithmic Trader: 28
+Company name: Jane Street
+Quant: 42
+Company name: Jane Street
+Algorithmic Trader: 11
+Consulting companies:
+Company name: Boston Consulting Group
+Business Analsyt: 90
+Company name: Boston Consulting Group
+Marketing Manager: 18
+Company name: McKinsey & Company
+Business Analsyt: 40
+Company name: McKinsey & Company
+Marketing Manager: 4
+First round results for: 2002001
+Tech companies:
+Company name: Microsoft
+Software Developer: 59
+Company name: Microsoft
+Software Engineer: 0
+Company name: Microsoft
+R&D: 64
+Company name: Google
+Software Developer: 60
+Company name: Google
+Software Engineer: 80
+Company name: Google
+R&D: 68
+Company name: Amazon
+Software Developer: 26
+Company name: Amazon
+Software Engineer: 67
+Company name: Amazon
+R&D: 77
+Company name: Meta
+Software Developer: 36
+Company name: Meta
+Software Engineer: 94
+Company name: Meta
+R&D: 97
+Core companies:
+Finance companies:
+Company name: Goldman Sachs
+Quant: 0
+Company name: Goldman Sachs
+Algorithmic Trader: 61
+Company name: JP Morgan
+Quant: 94
+Company name: JP Morgan
+Algorithmic Trader: 76
+Company name: Jane Street
+Quant: 76
+Company name: Jane Street
+Algorithmic Trader: 19
+Consulting companies:
+Company name: Boston Consulting Group
+Business Analsyt: 40
+Company name: Boston Consulting Group
+Marketing Manager: 73
+Company name: McKinsey & Company
+Business Analsyt: 30
+Company name: McKinsey & Company
+Marketing Manager: 2
+First round results for: 2002002
+Tech companies:
+Company name: Microsoft
+Software Developer: 49
+Company name: Microsoft
+Software Engineer: 62
+Company name: Microsoft
+R&D: 70
+Company name: Google
+Software Developer: 26
+Company name: Google
+Software Engineer: 95
+Company name: Google
+R&D: 67
+Company name: Amazon
+Software Developer: 37
+Company name: Amazon
+Software Engineer: 66
+Company name: Amazon
+R&D: 47
+Company name: Meta
+Software Developer: 74
+Company name: Meta
+Software Engineer: 78
+Company name: Meta
+R&D: 90
+Core companies:
+Finance companies:
+Company name: Goldman Sachs
+Quant: 41
+Company name: Goldman Sachs
+Algorithmic Trader: 92
+Company name: JP Morgan
+Quant: 54
+Company name: JP Morgan
+Algorithmic Trader: 78
+Company name: Jane Street
+Quant: 69
+Company name: Jane Street
+Algorithmic Trader: 84
+Consulting companies:
+Company name: Boston Consulting Group
+Business Analsyt: 15
+Company name: Boston Consulting Group
+Marketing Manager: 26
+Company name: McKinsey & Company
+Business Analsyt: 10
+Company name: McKinsey & Company
+Marketing Manager: 95
+First round results for: 2003001
+Tech companies:
+Company name: Microsoft
+Software Developer: 3
+Company name: Microsoft
+Software Engineer: 64
+Company name: Microsoft
+R&D: 64
+Company name: Google
+Software Developer: 50
+Company name: Google
+Software Engineer: 63
+Company name: Google
+R&D: 8
+Company name: Amazon
+Software Developer: 79
+Company name: Amazon
+Software Engineer: 89
+Company name: Amazon
+R&D: 86
+Company name: Meta
+Software Developer: 28
+Company name: Meta
+Software Engineer: 68
+Company name: Meta
+R&D: 9
+Core companies:
+Finance companies:
+Company name: Goldman Sachs
+Quant: 78
+Company name: Goldman Sachs
+Algorithmic Trader: 60
+Company name: JP Morgan
+Quant: 22
+Company name: JP Morgan
+Algorithmic Trader: 2
+Company name: Jane Street
+Quant: 84
+Company name: Jane Street
+Algorithmic Trader: 43
+Consulting companies:
+Company name: Boston Consulting Group
+Business Analsyt: 39
+Company name: Boston Consulting Group
+Marketing Manager: 33
+Company name: McKinsey & Company
+Business Analsyt: 24
+Company name: McKinsey & Company
+Marketing Manager: 91
+First round results for: 2003003
+Tech companies:
+Company name: Microsoft
+Software Developer: 44
+Company name: Microsoft
+Software Engineer: 39
+Company name: Microsoft
+R&D: 55
+Company name: Google
+Software Developer: 92
+Company name: Google
+Software Engineer: 32
+Company name: Google
+R&D: 96
+Company name: Amazon
+Software Developer: 67
+Company name: Amazon
+Software Engineer: 77
+Company name: Amazon
+R&D: 43
+Company name: Meta
+Software Developer: 1
+Company name: Meta
+Software Engineer: 47
+Company name: Meta
+R&D: 8
+Core companies:
+Finance companies:
+Company name: Goldman Sachs
+Quant: 96
+Company name: Goldman Sachs
+Algorithmic Trader: 19
+Company name: JP Morgan
+Quant: 38
+Company name: JP Morgan
+Algorithmic Trader: 62
+Company name: Jane Street
+Quant: 80
+Company name: Jane Street
+Algorithmic Trader: 55
+Consulting companies:
+Company name: Boston Consulting Group
+Business Analsyt: 0
+Company name: Boston Consulting Group
+Marketing Manager: 32
+Company name: McKinsey & Company
+Business Analsyt: 96
+Company name: McKinsey & Company
+Marketing Manager: 53
+First round results for: 2003002
+Tech companies:
+Company name: Microsoft
+Software Developer: 56
+Company name: Microsoft
+Software Engineer: 28
+Company name: Microsoft
+R&D: 8
+Company name: Google
+Software Developer: 31
+Company name: Google
+Software Engineer: 24
+Company name: Google
+R&D: 27
+Company name: Amazon
+Software Developer: 17
+Company name: Amazon
+Software Engineer: 75
+Company name: Amazon
+R&D: 30
+Company name: Meta
+Software Developer: 30
+Company name: Meta
+Software Engineer: 74
+Company name: Meta
+R&D: 87
+Core companies:
+Finance companies:
+Company name: Goldman Sachs
+Quant: 13
+Company name: Goldman Sachs
+Algorithmic Trader: 45
+Company name: JP Morgan
+Quant: 82
+Company name: JP Morgan
+Algorithmic Trader: 77
+Company name: Jane Street
+Quant: 65
+Company name: Jane Street
+Algorithmic Trader: 57
+Consulting companies:
+Company name: Boston Consulting Group
+Business Analsyt: 84
+Company name: Boston Consulting Group
+Marketing Manager: 70
+Company name: McKinsey & Company
+Business Analsyt: 7
+Company name: McKinsey & Company
+Marketing Manager: 8
+First round results for: 2004002
+Tech companies:
+Company name: Microsoft
+Software Developer: 75
+Company name: Microsoft
+Software Engineer: 59
+Company name: Microsoft
+R&D: 96
+Company name: Amazon
+Software Developer: 55
+Company name: Amazon
+Software Engineer: 26
+Company name: Amazon
+R&D: 72
+Company name: Meta
+Software Developer: 28
+Company name: Meta
+Software Engineer: 21
+Company name: Meta
+R&D: 59
+Core companies:
+Company name: Mercedes
+Graduate Engineer Trainee: 30
+Company name: Texas Instruments
+Graduate Engineer Trainee: 45
+Finance companies:
+Company name: Goldman Sachs
+Quant: 74
+Company name: Goldman Sachs
+Algorithmic Trader: 33
+Company name: JP Morgan
+Quant: 14
+Company name: JP Morgan
+Algorithmic Trader: 99
+Consulting companies:
+Company name: Boston Consulting Group
+Business Analsyt: 30
+Company name: Boston Consulting Group
+Marketing Manager: 26
+First round results for: 2004001
+Tech companies:
+Company name: Microsoft
+Software Developer: 65
+Company name: Microsoft
+Software Engineer: 64
+Company name: Microsoft
+R&D: 12
+Company name: Amazon
+Software Developer: 15
+Company name: Amazon
+Software Engineer: 32
+Company name: Amazon
+R&D: 91
+Company name: Meta
+Software Developer: 44
+Company name: Meta
+Software Engineer: 42
+Company name: Meta
+R&D: 48
+Core companies:
+Company name: Mercedes
+Graduate Engineer Trainee: 58
+Company name: Texas Instruments
+Graduate Engineer Trainee: 35
+Finance companies:
+Company name: Goldman Sachs
+Quant: 74
+Company name: Goldman Sachs
+Algorithmic Trader: 15
+Company name: JP Morgan
+Quant: 19
+Company name: JP Morgan
+Algorithmic Trader: 98
+Consulting companies:
+Company name: Boston Consulting Group
+Business Analsyt: 94
+Company name: Boston Consulting Group
+Marketing Manager: 18
+First round results for: 2004003
+Tech companies:
+Company name: Microsoft
+Software Developer: 79
+Company name: Microsoft
+Software Engineer: 97
+Company name: Microsoft
+R&D: 15
+Company name: Amazon
+Software Developer: 78
+Company name: Amazon
+Software Engineer: 52
+Company name: Amazon
+R&D: 78
+Company name: Meta
+Software Developer: 4
+Company name: Meta
+Software Engineer: 81
+Company name: Meta
+R&D: 93
+Core companies:
+Company name: Mercedes
+Graduate Engineer Trainee: 35
+Company name: Texas Instruments
+Graduate Engineer Trainee: 45
+Finance companies:
+Company name: Goldman Sachs
+Quant: 22
+Company name: Goldman Sachs
+Algorithmic Trader: 7
+Company name: JP Morgan
+Quant: 39
+Company name: JP Morgan
+Algorithmic Trader: 44
+Consulting companies:
+Company name: Boston Consulting Group
+Business Analsyt: 92
+Company name: Boston Consulting Group
+Marketing Manager: 9
+First round results for: 2005002
+Tech companies:
+Company name: Google
+Software Developer: 64
+Company name: Google
+Software Engineer: 57
+Company name: Google
+R&D: 56
+Company name: Amazon
+Software Developer: 42
+Company name: Amazon
+Software Engineer: 84
+Company name: Amazon
+R&D: 87
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 2
+Company name: Reliance Industries
+Graduate Engineer Trainee: 45
+Company name: Mercedes
+Graduate Engineer Trainee: 34
+Company name: Texas Instruments
+Graduate Engineer Trainee: 91
+Company name: Samsung
+Graduate Engineer Trainee: 34
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 80
+Finance companies:
+Company name: Goldman Sachs
+Quant: 36
+Company name: Goldman Sachs
+Algorithmic Trader: 97
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 72
+Company name: McKinsey & Company
+Marketing Manager: 20
+First round results for: 2005001
+Tech companies:
+Company name: Google
+Software Developer: 58
+Company name: Google
+Software Engineer: 83
+Company name: Google
+R&D: 95
+Company name: Amazon
+Software Developer: 29
+Company name: Amazon
+Software Engineer: 91
+Company name: Amazon
+R&D: 1
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 3
+Company name: Reliance Industries
+Graduate Engineer Trainee: 27
+Company name: Mercedes
+Graduate Engineer Trainee: 69
+Company name: Texas Instruments
+Graduate Engineer Trainee: 64
+Company name: Samsung
+Graduate Engineer Trainee: 79
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 68
+Finance companies:
+Company name: Goldman Sachs
+Quant: 49
+Company name: Goldman Sachs
+Algorithmic Trader: 6
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 9
+Company name: McKinsey & Company
+Marketing Manager: 66
+First round results for: 2005003
+Tech companies:
+Company name: Google
+Software Developer: 82
+Company name: Google
+Software Engineer: 30
+Company name: Google
+R&D: 50
+Company name: Amazon
+Software Developer: 30
+Company name: Amazon
+Software Engineer: 8
+Company name: Amazon
+R&D: 23
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 65
+Company name: Reliance Industries
+Graduate Engineer Trainee: 14
+Company name: Mercedes
+Graduate Engineer Trainee: 98
+Company name: Texas Instruments
+Graduate Engineer Trainee: 83
+Company name: Samsung
+Graduate Engineer Trainee: 99
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 37
+Finance companies:
+Company name: Goldman Sachs
+Quant: 98
+Company name: Goldman Sachs
+Algorithmic Trader: 30
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 81
+Company name: McKinsey & Company
+Marketing Manager: 35
+First round results for: 2006002
+Tech companies:
+Company name: Google
+Software Developer: 94
+Company name: Google
+Software Engineer: 47
+Company name: Google
+R&D: 28
+Company name: Amazon
+Software Developer: 96
+Company name: Amazon
+Software Engineer: 72
+Company name: Amazon
+R&D: 76
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 6
+Company name: Reliance Industries
+Graduate Engineer Trainee: 38
+Company name: Mercedes
+Graduate Engineer Trainee: 51
+Company name: Texas Instruments
+Graduate Engineer Trainee: 0
+Company name: Samsung
+Graduate Engineer Trainee: 99
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 84
+Finance companies:
+Company name: Goldman Sachs
+Quant: 35
+Company name: Goldman Sachs
+Algorithmic Trader: 25
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 9
+Company name: McKinsey & Company
+Marketing Manager: 77
+First round results for: 2006001
+Tech companies:
+Company name: Google
+Software Developer: 76
+Company name: Google
+Software Engineer: 81
+Company name: Google
+R&D: 32
+Company name: Amazon
+Software Developer: 18
+Company name: Amazon
+Software Engineer: 21
+Company name: Amazon
+R&D: 76
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 98
+Company name: Reliance Industries
+Graduate Engineer Trainee: 2
+Company name: Mercedes
+Graduate Engineer Trainee: 26
+Company name: Texas Instruments
+Graduate Engineer Trainee: 63
+Company name: Samsung
+Graduate Engineer Trainee: 30
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 97
+Finance companies:
+Company name: Goldman Sachs
+Quant: 50
+Company name: Goldman Sachs
+Algorithmic Trader: 86
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 39
+Company name: McKinsey & Company
+Marketing Manager: 4
+First round results for: 2007002
+Tech companies:
+Company name: Google
+Software Developer: 87
+Company name: Google
+Software Engineer: 50
+Company name: Google
+R&D: 20
+Company name: Amazon
+Software Developer: 79
+Company name: Amazon
+Software Engineer: 56
+Company name: Amazon
+R&D: 74
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 82
+Company name: Reliance Industries
+Graduate Engineer Trainee: 79
+Company name: Mercedes
+Graduate Engineer Trainee: 19
+Company name: Texas Instruments
+Graduate Engineer Trainee: 82
+Company name: Samsung
+Graduate Engineer Trainee: 68
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 69
+Finance companies:
+Company name: Goldman Sachs
+Quant: 92
+Company name: Goldman Sachs
+Algorithmic Trader: 59
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 7
+Company name: McKinsey & Company
+Marketing Manager: 52
+First round results for: 2007001
+Tech companies:
+Company name: Google
+Software Developer: 75
+Company name: Google
+Software Engineer: 34
+Company name: Google
+R&D: 78
+Company name: Amazon
+Software Developer: 57
+Company name: Amazon
+Software Engineer: 43
+Company name: Amazon
+R&D: 16
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 62
+Company name: Reliance Industries
+Graduate Engineer Trainee: 95
+Company name: Mercedes
+Graduate Engineer Trainee: 51
+Company name: Texas Instruments
+Graduate Engineer Trainee: 84
+Company name: Samsung
+Graduate Engineer Trainee: 46
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 62
+Finance companies:
+Company name: Goldman Sachs
+Quant: 47
+Company name: Goldman Sachs
+Algorithmic Trader: 71
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 72
+Company name: McKinsey & Company
+Marketing Manager: 9
+First round results for: 2008001
+Tech companies:
+Company name: Amazon
+Software Developer: 19
+Company name: Amazon
+Software Engineer: 38
+Company name: Amazon
+R&D: 50
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 64
+Company name: Reliance Industries
+Graduate Engineer Trainee: 84
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 61
+Finance companies:
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 40
+Company name: McKinsey & Company
+Marketing Manager: 71
+First round results for: 2009002
+Tech companies:
+Company name: Amazon
+Software Developer: 29
+Company name: Amazon
+Software Engineer: 6
+Company name: Amazon
+R&D: 56
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 16
+Company name: Reliance Industries
+Graduate Engineer Trainee: 40
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 95
+Finance companies:
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 74
+Company name: McKinsey & Company
+Marketing Manager: 16
+First round results for: 2009001
+Tech companies:
+Company name: Amazon
+Software Developer: 16
+Company name: Amazon
+Software Engineer: 99
+Company name: Amazon
+R&D: 29
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 74
+Company name: Reliance Industries
+Graduate Engineer Trainee: 8
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 21
+Finance companies:
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 49
+Company name: McKinsey & Company
+Marketing Manager: 3
+First round results for: 2010002
+Tech companies:
+Company name: Amazon
+Software Developer: 68
+Company name: Amazon
+Software Engineer: 8
+Company name: Amazon
+R&D: 75
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 31
+Company name: Reliance Industries
+Graduate Engineer Trainee: 41
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 5
+Finance companies:
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 3
+Company name: McKinsey & Company
+Marketing Manager: 29
+First round results for: 2010001
+Tech companies:
+Company name: Amazon
+Software Developer: 92
+Company name: Amazon
+Software Engineer: 88
+Company name: Amazon
+R&D: 1
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 38
+Company name: Reliance Industries
+Graduate Engineer Trainee: 45
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 51
+Finance companies:
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 62
+Company name: McKinsey & Company
+Marketing Manager: 1
+First round results for: 2010003
+Tech companies:
+Company name: Amazon
+Software Developer: 34
+Company name: Amazon
+Software Engineer: 68
+Company name: Amazon
+R&D: 61
+Core companies:
+Company name: Larsen & Toubro
+Graduate Engineer Trainee: 26
+Company name: Reliance Industries
+Graduate Engineer Trainee: 95
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 79
+Finance companies:
+Consulting companies:
+Company name: McKinsey & Company
+Business Analsyt: 70
+Company name: McKinsey & Company
+Marketing Manager: 63
+First round results for: 2011002
+Tech companies:
+Company name: Amazon
+Software Developer: 20
+Company name: Amazon
+Software Engineer: 68
+Company name: Amazon
+R&D: 11
+Core companies:
+Company name: Reliance Industries
+Graduate Engineer Trainee: 25
+Company name: Mercedes
+Graduate Engineer Trainee: 47
+Company name: Texas Instruments
+Graduate Engineer Trainee: 29
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 73
+Finance companies:
+Consulting companies:
+First round results for: 2011001
+Tech companies:
+Company name: Amazon
+Software Developer: 67
+Company name: Amazon
+Software Engineer: 19
+Company name: Amazon
+R&D: 91
+Core companies:
+Company name: Reliance Industries
+Graduate Engineer Trainee: 20
+Company name: Mercedes
+Graduate Engineer Trainee: 51
+Company name: Texas Instruments
+Graduate Engineer Trainee: 81
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 90
+Finance companies:
+Consulting companies:
+First round results for: 2012001
+Tech companies:
+Company name: Amazon
+Software Developer: 34
+Company name: Amazon
+Software Engineer: 27
+Company name: Amazon
+R&D: 3
+Core companies:
+Company name: Reliance Industries
+Graduate Engineer Trainee: 49
+Company name: Mercedes
+Graduate Engineer Trainee: 58
+Company name: Texas Instruments
+Graduate Engineer Trainee: 39
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 89
+Finance companies:
+Consulting companies:
+First round results for: 2012002
+Tech companies:
+Company name: Amazon
+Software Developer: 8
+Company name: Amazon
+Software Engineer: 8
+Company name: Amazon
+R&D: 7
+Core companies:
+Company name: Reliance Industries
+Graduate Engineer Trainee: 35
+Company name: Mercedes
+Graduate Engineer Trainee: 42
+Company name: Texas Instruments
+Graduate Engineer Trainee: 9
+Company name: Lupin Ltd
+Graduate Engineer Trainee: 13
+Finance companies:
+Consulting companies:
+Enter N to stop the process, Y to continue:
+Y
+Enter 1 to view the list of students sorted by CPI:
+Enter 2 to view the list of students sorted by branch and CPI
+Enter 3 to view company details:
+Enter 4 to carry out round 1 of the placement process:
+Enter 5 to carry out round 2 of the placement process:
+Enter 6 to view results after round 2:
+Enter 7 to view final results of the placement process(top 5 scorers for each)
+Enter 8 to view employees for each company:
+Enter 9 to view final placement statistics:
+5
+Top five scorers for Software Developer in Microsoft are:
+1. Roll no: 2001003 Score: 98
+2. Roll no: 2004003 Score: 79
+3. Roll no: 2004002 Score: 75
+4. Roll no: 2001002 Score: 69
+5. Roll no: 2004001 Score: 65
+Top five scorers for Software Engineer in Microsoft are:
+1. Roll no: 2004003 Score: 97
+2. Roll no: 2001001 Score: 74
+3. Roll no: 2004001 Score: 64
+4. Roll no: 2003001 Score: 64
+5. Roll no: 2002002 Score: 62
+Top five scorers for R&D in Microsoft are:
+1. Roll no: 2004002 Score: 96
+2. Roll no: 2001003 Score: 90
+3. Roll no: 2001001 Score: 82
+4. Roll no: 2002002 Score: 70
+5. Roll no: 2001002 Score: 65
+Top five scorers for Software Developer in Google are:
+1. Roll no: 2006002 Score: 94
+2. Roll no: 2003003 Score: 92
+3. Roll no: 2007002 Score: 87
+4. Roll no: 2005003 Score: 82
+5. Roll no: 2006001 Score: 76
+Top five scorers for Software Engineer in Google are:
+1. Roll no: 2002002 Score: 95
+2. Roll no: 2001002 Score: 86
+3. Roll no: 2005001 Score: 83
+4. Roll no: 2006001 Score: 81
+5. Roll no: 2002001 Score: 80
+Top five scorers for R&D in Google are:
+1. Roll no: 2003003 Score: 96
+2. Roll no: 2005001 Score: 95
+3. Roll no: 2007001 Score: 78
+4. Roll no: 2002001 Score: 68
+5. Roll no: 2002002 Score: 67
+Top five scorers for Software Developer in Amazon are:
+1. Roll no: 2006002 Score: 96
+2. Roll no: 2010001 Score: 92
+3. Roll no: 2001003 Score: 91
+4. Roll no: 2001002 Score: 84
+5. Roll no: 2007002 Score: 79
+Top five scorers for Software Engineer in Amazon are:
+1. Roll no: 2009001 Score: 99
+2. Roll no: 2005001 Score: 91
+3. Roll no: 2001003 Score: 89
+4. Roll no: 2003001 Score: 89
+5. Roll no: 2010001 Score: 88
+Top five scorers for R&D in Amazon are:
+1. Roll no: 2004001 Score: 91
+2. Roll no: 2011001 Score: 91
+3. Roll no: 2005002 Score: 87
+4. Roll no: 2001003 Score: 86
+5. Roll no: 2003001 Score: 86
+Top five scorers for Software Developer in Meta are:
+1. Roll no: 2001002 Score: 94
+2. Roll no: 2001003 Score: 89
+3. Roll no: 2002002 Score: 74
+4. Roll no: 2004001 Score: 44
+5. Roll no: 2002001 Score: 36
+Top five scorers for Software Engineer in Meta are:
+1. Roll no: 2002001 Score: 94
+2. Roll no: 2004003 Score: 81
+3. Roll no: 2002002 Score: 78
+4. Roll no: 2003002 Score: 74
+5. Roll no: 2003001 Score: 68
+Top five scorers for R&D in Meta are:
+1. Roll no: 2002001 Score: 97
+2. Roll no: 2004003 Score: 93
+3. Roll no: 2002002 Score: 90
+4. Roll no: 2003002 Score: 87
+5. Roll no: 2004002 Score: 59
+Top five scorers for Quant in Goldman Sachs are:
+1. Roll no: 2005003 Score: 98
+2. Roll no: 2003003 Score: 96
+3. Roll no: 2007002 Score: 92
+4. Roll no: 2003001 Score: 78
+5. Roll no: 2004002 Score: 74
+Top five scorers for Algorithmic Trader in Goldman Sachs are:
+1. Roll no: 2005002 Score: 97
+2. Roll no: 2001003 Score: 93
+3. Roll no: 2002002 Score: 92
+4. Roll no: 2006001 Score: 86
+5. Roll no: 2001002 Score: 84
+Top five scorers for Quant in JP Morgan are:
+1. Roll no: 2001002 Score: 96
+2. Roll no: 2002001 Score: 94
+3. Roll no: 2003002 Score: 82
+4. Roll no: 2001001 Score: 76
+5. Roll no: 2002002 Score: 54
+Top five scorers for Algorithmic Trader in JP Morgan are:
+1. Roll no: 2004002 Score: 99
+2. Roll no: 2004001 Score: 98
+3. Roll no: 2002002 Score: 78
+4. Roll no: 2003002 Score: 77
+5. Roll no: 2002001 Score: 76
+Top five scorers for Quant in Jane Street are:
+1. Roll no: 2003001 Score: 84
+2. Roll no: 2003003 Score: 80
+3. Roll no: 2002001 Score: 76
+4. Roll no: 2002002 Score: 69
+5. Roll no: 2003002 Score: 65
+Top five scorers for Algorithmic Trader in Jane Street are:
+1. Roll no: 2002002 Score: 84
+2. Roll no: 2003002 Score: 57
+3. Roll no: 2003003 Score: 55
+4. Roll no: 2003001 Score: 43
+5. Roll no: 2001003 Score: 26
+Top five scorers for Graduate Engineer Trainee in Larsen & Toubro are:
+1. Roll no: 2006001 Score: 98
+2. Roll no: 2007002 Score: 82
+3. Roll no: 2009001 Score: 74
+4. Roll no: 2005003 Score: 65
+5. Roll no: 2008001 Score: 64
+Top five scorers for Graduate Engineer Trainee in Reliance Industries are:
+1. Roll no: 2007001 Score: 95
+2. Roll no: 2010003 Score: 95
+3. Roll no: 2008001 Score: 84
+4. Roll no: 2007002 Score: 79
+5. Roll no: 2012001 Score: 49
+Top five scorers for Graduate Engineer Trainee in Mercedes are:
+1. Roll no: 2005003 Score: 98
+2. Roll no: 2005001 Score: 69
+3. Roll no: 2012001 Score: 58
+4. Roll no: 2004001 Score: 58
+5. Roll no: 2007001 Score: 51
+Top five scorers for Graduate Engineer Trainee in Texas Instruments are:
+1. Roll no: 2005002 Score: 91
+2. Roll no: 2007001 Score: 84
+3. Roll no: 2005003 Score: 83
+4. Roll no: 2007002 Score: 82
+5. Roll no: 2011001 Score: 81
+Top five scorers for Graduate Engineer Trainee in Samsung are:
+1. Roll no: 2005003 Score: 99
+2. Roll no: 2006002 Score: 99
+3. Roll no: 2005001 Score: 79
+4. Roll no: 2007002 Score: 68
+5. Roll no: 2007001 Score: 46
+Top five scorers for Graduate Engineer Trainee in Lupin Ltd are:
+1. Roll no: 2006001 Score: 97
+2. Roll no: 2009002 Score: 95
+3. Roll no: 2011001 Score: 90
+4. Roll no: 2012001 Score: 89
+5. Roll no: 2006002 Score: 84
+Top five scorers for Business Analsyt in Boston Consulting Group are:
+1. Roll no: 2004001 Score: 94
+2. Roll no: 2004003 Score: 92
+3. Roll no: 2001001 Score: 90
+4. Roll no: 2003002 Score: 84
+5. Roll no: 2002001 Score: 40
+Top five scorers for Marketing Manager in Boston Consulting Group are:
+1. Roll no: 2002001 Score: 73
+2. Roll no: 2003002 Score: 70
+3. Roll no: 2001002 Score: 51
+4. Roll no: 2001003 Score: 49
+5. Roll no: 2003001 Score: 33
+Top five scorers for Business Analsyt in McKinsey & Company are:
+1. Roll no: 2003003 Score: 96
+2. Roll no: 2005003 Score: 81
+3. Roll no: 2009002 Score: 74
+4. Roll no: 2005002 Score: 72
+5. Roll no: 2007001 Score: 72
+Top five scorers for Marketing Manager in McKinsey & Company are:
+1. Roll no: 2002002 Score: 95
+2. Roll no: 2003001 Score: 91
+3. Roll no: 2006002 Score: 77
+4. Roll no: 2008001 Score: 71
+5. Roll no: 2005001 Score: 66
+Enter N to stop the process, Y to continue:
+Y
+Enter 1 to view the list of students sorted by CPI:
+Enter 2 to view the list of students sorted by branch and CPI
+Enter 3 to view company details:
+Enter 4 to carry out round 1 of the placement process:
+Enter 5 to carry out round 2 of the placement process:
+Enter 6 to view results after round 2:
+Enter 7 to view final results of the placement process(top 5 scorers for each)
+Enter 8 to view employees for each company:
+Enter 9 to view final placement statistics:
+6
+Roll no: 2002002
+CPI: 7.91
+Coding Rd1 Score(out of 100) :49
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.996
+Roll no: 2003001
+CPI: 8.95
+Coding Rd1 Score(out of 100) :3
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.03
+Roll no: 2006002
+CPI: 8.64
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.819
+Roll no: 2008001
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005001
+CPI: 8.44
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.799
+Roll no: 2010003
+CPI: 7.01
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.656
+Roll no: 2001003
+CPI: 9.41
+Coding Rd1 Score(out of 100) :98
+Interview Score(out of 100): 64
+Total Score(out of 10): 8.231
+Roll no: 2003003
+CPI: 8.36
+Coding Rd1 Score(out of 100) :44
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.816
+Roll no: 2007002
+CPI: 8.26
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.781
+Roll no: 2005003
+CPI: 7.71
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.726
+Roll no: 2010002
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005002
+CPI: 8.72
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.827
+Roll no: 2009002
+CPI: 8.47
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.802
+Roll no: 2001002
+CPI: 9.11
+Coding Rd1 Score(out of 100) :69
+Interview Score(out of 100): 29
+Total Score(out of 10): 5.321
+Roll no: 2007001
+CPI: 7.93
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.748
+Roll no: 2003002
+CPI: 7.96
+Coding Rd1 Score(out of 100) :56
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.316
+Roll no: 2001001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :58
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.445
+Roll no: 2006001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.79
+Roll no: 2009001
+CPI: 8.22
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2002001
+CPI: 9.37
+Coding Rd1 Score(out of 100) :59
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.592
+Roll no: 2010001
+CPI: 7.36
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.691
+Roll no: 2004002
+CPI: 8.95
+Coding Rd1 Score(out of 100) :75
+Interview Score(out of 100): 86
+Total Score(out of 10): 8.14
+Roll no: 2004001
+CPI: 8.27
+Coding Rd1 Score(out of 100) :65
+Interview Score(out of 100): 73
+Total Score(out of 10): 7.037
+Roll no: 2004003
+CPI: 7.17
+Coding Rd1 Score(out of 100) :79
+Interview Score(out of 100): 25
+Total Score(out of 10): 5.397
+Roll no: 2011001
+CPI: 7.59
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.714
+Roll no: 2012001
+CPI: 8.33
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.788
+Roll no: 2011002
+CPI: 8.34
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.789
+Roll no: 2012002
+CPI: 7.12
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2002002
+CPI: 7.91
+Coding Rd1 Score(out of 100) :62
+Interview Score(out of 100): 53
+Total Score(out of 10): 5.966
+Roll no: 2003001
+CPI: 8.95
+Coding Rd1 Score(out of 100) :64
+Interview Score(out of 100): 28
+Total Score(out of 10): 5.035
+Roll no: 2006002
+CPI: 8.64
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.819
+Roll no: 2008001
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005001
+CPI: 8.44
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.799
+Roll no: 2010003
+CPI: 7.01
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.656
+Roll no: 2001003
+CPI: 9.41
+Coding Rd1 Score(out of 100) :34
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.471
+Roll no: 2003003
+CPI: 8.36
+Coding Rd1 Score(out of 100) :39
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.591
+Roll no: 2007002
+CPI: 8.26
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.781
+Roll no: 2005003
+CPI: 7.71
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.726
+Roll no: 2010002
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005002
+CPI: 8.72
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.827
+Roll no: 2009002
+CPI: 8.47
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.802
+Roll no: 2001002
+CPI: 9.11
+Coding Rd1 Score(out of 100) :11
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.406
+Roll no: 2007001
+CPI: 7.93
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.748
+Roll no: 2003002
+CPI: 7.96
+Coding Rd1 Score(out of 100) :28
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.056
+Roll no: 2001001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :74
+Interview Score(out of 100): 56
+Total Score(out of 10): 6.685
+Roll no: 2006001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.79
+Roll no: 2009001
+CPI: 8.22
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2002001
+CPI: 9.37
+Coding Rd1 Score(out of 100) :0
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.937
+Roll no: 2010001
+CPI: 7.36
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.691
+Roll no: 2004002
+CPI: 8.95
+Coding Rd1 Score(out of 100) :59
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.55
+Roll no: 2004001
+CPI: 8.27
+Coding Rd1 Score(out of 100) :64
+Interview Score(out of 100): 2
+Total Score(out of 10): 3.797
+Roll no: 2004003
+CPI: 7.17
+Coding Rd1 Score(out of 100) :97
+Interview Score(out of 100): 40
+Total Score(out of 10): 6.882
+Roll no: 2011001
+CPI: 7.59
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.714
+Roll no: 2012001
+CPI: 8.33
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.788
+Roll no: 2011002
+CPI: 8.34
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.789
+Roll no: 2012002
+CPI: 7.12
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2002002
+CPI: 7.91
+Coding Rd1 Score(out of 100) :70
+Interview Score(out of 100): 46
+Total Score(out of 10): 6.011
+Roll no: 2003001
+CPI: 8.95
+Coding Rd1 Score(out of 100) :64
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.775
+Roll no: 2006002
+CPI: 8.64
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.819
+Roll no: 2008001
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005001
+CPI: 8.44
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.799
+Roll no: 2010003
+CPI: 7.01
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.656
+Roll no: 2001003
+CPI: 9.41
+Coding Rd1 Score(out of 100) :90
+Interview Score(out of 100): 46
+Total Score(out of 10): 7.061
+Roll no: 2003003
+CPI: 8.36
+Coding Rd1 Score(out of 100) :55
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.311
+Roll no: 2007002
+CPI: 8.26
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.781
+Roll no: 2005003
+CPI: 7.71
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.726
+Roll no: 2010002
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005002
+CPI: 8.72
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.827
+Roll no: 2009002
+CPI: 8.47
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.802
+Roll no: 2001002
+CPI: 9.11
+Coding Rd1 Score(out of 100) :65
+Interview Score(out of 100): 42
+Total Score(out of 10): 5.726
+Roll no: 2007001
+CPI: 7.93
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.748
+Roll no: 2003002
+CPI: 7.96
+Coding Rd1 Score(out of 100) :8
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.156
+Roll no: 2001001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :82
+Interview Score(out of 100): 46
+Total Score(out of 10): 6.595
+Roll no: 2006001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.79
+Roll no: 2009001
+CPI: 8.22
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2002001
+CPI: 9.37
+Coding Rd1 Score(out of 100) :64
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.817
+Roll no: 2010001
+CPI: 7.36
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.691
+Roll no: 2004002
+CPI: 8.95
+Coding Rd1 Score(out of 100) :96
+Interview Score(out of 100): 40
+Total Score(out of 10): 7.015
+Roll no: 2004001
+CPI: 8.27
+Coding Rd1 Score(out of 100) :12
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.367
+Roll no: 2004003
+CPI: 7.17
+Coding Rd1 Score(out of 100) :15
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.392
+Roll no: 2011001
+CPI: 7.59
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.714
+Roll no: 2012001
+CPI: 8.33
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.788
+Roll no: 2011002
+CPI: 8.34
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.789
+Roll no: 2012002
+CPI: 7.12
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2002002
+CPI: 7.91
+Coding Rd1 Score(out of 100) :26
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.961
+Roll no: 2003001
+CPI: 8.95
+Coding Rd1 Score(out of 100) :50
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.145
+Roll no: 2006002
+CPI: 8.64
+Coding Rd1 Score(out of 100) :94
+Interview Score(out of 100): 92
+Total Score(out of 10): 9.234
+Roll no: 2008001
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005001
+CPI: 8.44
+Coding Rd1 Score(out of 100) :58
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.454
+Roll no: 2010003
+CPI: 7.01
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.656
+Roll no: 2001003
+CPI: 9.41
+Coding Rd1 Score(out of 100) :4
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.121
+Roll no: 2003003
+CPI: 8.36
+Coding Rd1 Score(out of 100) :92
+Interview Score(out of 100): 34
+Total Score(out of 10): 6.506
+Roll no: 2007002
+CPI: 8.26
+Coding Rd1 Score(out of 100) :87
+Interview Score(out of 100): 44
+Total Score(out of 10): 6.721
+Roll no: 2005003
+CPI: 7.71
+Coding Rd1 Score(out of 100) :82
+Interview Score(out of 100): 70
+Total Score(out of 10): 7.611
+Roll no: 2010002
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005002
+CPI: 8.72
+Coding Rd1 Score(out of 100) :64
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.752
+Roll no: 2009002
+CPI: 8.47
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.802
+Roll no: 2001002
+CPI: 9.11
+Coding Rd1 Score(out of 100) :4
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.091
+Roll no: 2007001
+CPI: 7.93
+Coding Rd1 Score(out of 100) :75
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.168
+Roll no: 2003002
+CPI: 7.96
+Coding Rd1 Score(out of 100) :31
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.191
+Roll no: 2001001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :63
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.67
+Roll no: 2006001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :76
+Interview Score(out of 100): 13
+Total Score(out of 10): 4.84
+Roll no: 2009001
+CPI: 8.22
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2002001
+CPI: 9.37
+Coding Rd1 Score(out of 100) :60
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.637
+Roll no: 2010001
+CPI: 7.36
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.691
+Roll no: 2004002
+CPI: 8.95
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.85
+Roll no: 2004001
+CPI: 8.27
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.782
+Roll no: 2004003
+CPI: 7.17
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.672
+Roll no: 2011001
+CPI: 7.59
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.714
+Roll no: 2012001
+CPI: 8.33
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.788
+Roll no: 2011002
+CPI: 8.34
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.789
+Roll no: 2012002
+CPI: 7.12
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2002002
+CPI: 7.91
+Coding Rd1 Score(out of 100) :95
+Interview Score(out of 100): 16
+Total Score(out of 10): 5.786
+Roll no: 2003001
+CPI: 8.95
+Coding Rd1 Score(out of 100) :63
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.73
+Roll no: 2006002
+CPI: 8.64
+Coding Rd1 Score(out of 100) :47
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.979
+Roll no: 2008001
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005001
+CPI: 8.44
+Coding Rd1 Score(out of 100) :83
+Interview Score(out of 100): 69
+Total Score(out of 10): 7.684
+Roll no: 2010003
+CPI: 7.01
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.656
+Roll no: 2001003
+CPI: 9.41
+Coding Rd1 Score(out of 100) :31
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.336
+Roll no: 2003003
+CPI: 8.36
+Coding Rd1 Score(out of 100) :32
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.276
+Roll no: 2007002
+CPI: 8.26
+Coding Rd1 Score(out of 100) :50
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.076
+Roll no: 2005003
+CPI: 7.71
+Coding Rd1 Score(out of 100) :30
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.121
+Roll no: 2010002
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005002
+CPI: 8.72
+Coding Rd1 Score(out of 100) :57
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.437
+Roll no: 2009002
+CPI: 8.47
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.802
+Roll no: 2001002
+CPI: 9.11
+Coding Rd1 Score(out of 100) :86
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.781
+Roll no: 2007001
+CPI: 7.93
+Coding Rd1 Score(out of 100) :34
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.323
+Roll no: 2003002
+CPI: 7.96
+Coding Rd1 Score(out of 100) :24
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.876
+Roll no: 2001001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :75
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.21
+Roll no: 2006001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :81
+Interview Score(out of 100): 33
+Total Score(out of 10): 5.965
+Roll no: 2009001
+CPI: 8.22
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2002001
+CPI: 9.37
+Coding Rd1 Score(out of 100) :80
+Interview Score(out of 100): 41
+Total Score(out of 10): 6.382
+Roll no: 2010001
+CPI: 7.36
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.691
+Roll no: 2004002
+CPI: 8.95
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.85
+Roll no: 2004001
+CPI: 8.27
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.782
+Roll no: 2004003
+CPI: 7.17
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.672
+Roll no: 2011001
+CPI: 7.59
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.714
+Roll no: 2012001
+CPI: 8.33
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.788
+Roll no: 2011002
+CPI: 8.34
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.789
+Roll no: 2012002
+CPI: 7.12
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2002002
+CPI: 7.91
+Coding Rd1 Score(out of 100) :67
+Interview Score(out of 100): 91
+Total Score(out of 10): 7.901
+Roll no: 2003001
+CPI: 8.95
+Coding Rd1 Score(out of 100) :8
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.255
+Roll no: 2006002
+CPI: 8.64
+Coding Rd1 Score(out of 100) :28
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.124
+Roll no: 2008001
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005001
+CPI: 8.44
+Coding Rd1 Score(out of 100) :95
+Interview Score(out of 100): 35
+Total Score(out of 10): 6.694
+Roll no: 2010003
+CPI: 7.01
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.656
+Roll no: 2001003
+CPI: 9.41
+Coding Rd1 Score(out of 100) :2
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.031
+Roll no: 2003003
+CPI: 8.36
+Coding Rd1 Score(out of 100) :96
+Interview Score(out of 100): 29
+Total Score(out of 10): 6.461
+Roll no: 2007002
+CPI: 8.26
+Coding Rd1 Score(out of 100) :20
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.726
+Roll no: 2005003
+CPI: 7.71
+Coding Rd1 Score(out of 100) :50
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.021
+Roll no: 2010002
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005002
+CPI: 8.72
+Coding Rd1 Score(out of 100) :56
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.392
+Roll no: 2009002
+CPI: 8.47
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.802
+Roll no: 2001002
+CPI: 9.11
+Coding Rd1 Score(out of 100) :28
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.171
+Roll no: 2007001
+CPI: 7.93
+Coding Rd1 Score(out of 100) :78
+Interview Score(out of 100): 41
+Total Score(out of 10): 6.148
+Roll no: 2003002
+CPI: 7.96
+Coding Rd1 Score(out of 100) :27
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.011
+Roll no: 2001001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :14
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.465
+Roll no: 2006001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :32
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.275
+Roll no: 2009001
+CPI: 8.22
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2002001
+CPI: 9.37
+Coding Rd1 Score(out of 100) :68
+Interview Score(out of 100): 9
+Total Score(out of 10): 4.402
+Roll no: 2010001
+CPI: 7.36
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.691
+Roll no: 2004002
+CPI: 8.95
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.85
+Roll no: 2004001
+CPI: 8.27
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.782
+Roll no: 2004003
+CPI: 7.17
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.672
+Roll no: 2011001
+CPI: 7.59
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.714
+Roll no: 2012001
+CPI: 8.33
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.788
+Roll no: 2011002
+CPI: 8.34
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.789
+Roll no: 2012002
+CPI: 7.12
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2002002
+CPI: 7.91
+Coding Rd1 Score(out of 100) :37
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.456
+Roll no: 2003001
+CPI: 8.95
+Coding Rd1 Score(out of 100) :79
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.45
+Roll no: 2006002
+CPI: 8.64
+Coding Rd1 Score(out of 100) :96
+Interview Score(out of 100): 99
+Total Score(out of 10): 9.639
+Roll no: 2008001
+CPI: 8.11
+Coding Rd1 Score(out of 100) :19
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.666
+Roll no: 2005001
+CPI: 8.44
+Coding Rd1 Score(out of 100) :29
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.149
+Roll no: 2010003
+CPI: 7.01
+Coding Rd1 Score(out of 100) :34
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.231
+Roll no: 2001003
+CPI: 9.41
+Coding Rd1 Score(out of 100) :91
+Interview Score(out of 100): 15
+Total Score(out of 10): 5.711
+Roll no: 2003003
+CPI: 8.36
+Coding Rd1 Score(out of 100) :67
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.851
+Roll no: 2007002
+CPI: 8.26
+Coding Rd1 Score(out of 100) :79
+Interview Score(out of 100): 19
+Total Score(out of 10): 5.236
+Roll no: 2005003
+CPI: 7.71
+Coding Rd1 Score(out of 100) :30
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.121
+Roll no: 2010002
+CPI: 8.11
+Coding Rd1 Score(out of 100) :68
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.871
+Roll no: 2005002
+CPI: 8.72
+Coding Rd1 Score(out of 100) :42
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.762
+Roll no: 2009002
+CPI: 8.47
+Coding Rd1 Score(out of 100) :29
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.152
+Roll no: 2001002
+CPI: 9.11
+Coding Rd1 Score(out of 100) :84
+Interview Score(out of 100): 46
+Total Score(out of 10): 6.761
+Roll no: 2007001
+CPI: 7.93
+Coding Rd1 Score(out of 100) :57
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.358
+Roll no: 2003002
+CPI: 7.96
+Coding Rd1 Score(out of 100) :17
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.561
+Roll no: 2001001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :21
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.78
+Roll no: 2006001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :18
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.645
+Roll no: 2009001
+CPI: 8.22
+Coding Rd1 Score(out of 100) :16
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.542
+Roll no: 2002001
+CPI: 9.37
+Coding Rd1 Score(out of 100) :26
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.107
+Roll no: 2010001
+CPI: 7.36
+Coding Rd1 Score(out of 100) :92
+Interview Score(out of 100): 59
+Total Score(out of 10): 7.531
+Roll no: 2004002
+CPI: 8.95
+Coding Rd1 Score(out of 100) :55
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.37
+Roll no: 2004001
+CPI: 8.27
+Coding Rd1 Score(out of 100) :15
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.502
+Roll no: 2004003
+CPI: 7.17
+Coding Rd1 Score(out of 100) :78
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.227
+Roll no: 2011001
+CPI: 7.59
+Coding Rd1 Score(out of 100) :67
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.774
+Roll no: 2012001
+CPI: 8.33
+Coding Rd1 Score(out of 100) :34
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.363
+Roll no: 2011002
+CPI: 8.34
+Coding Rd1 Score(out of 100) :20
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.734
+Roll no: 2012002
+CPI: 7.12
+Coding Rd1 Score(out of 100) :8
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.072
+Roll no: 2002002
+CPI: 7.91
+Coding Rd1 Score(out of 100) :66
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.761
+Roll no: 2003001
+CPI: 8.95
+Coding Rd1 Score(out of 100) :89
+Interview Score(out of 100): 91
+Total Score(out of 10): 8.995
+Roll no: 2006002
+CPI: 8.64
+Coding Rd1 Score(out of 100) :72
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.104
+Roll no: 2008001
+CPI: 8.11
+Coding Rd1 Score(out of 100) :38
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.521
+Roll no: 2005001
+CPI: 8.44
+Coding Rd1 Score(out of 100) :91
+Interview Score(out of 100): 42
+Total Score(out of 10): 6.829
+Roll no: 2010003
+CPI: 7.01
+Coding Rd1 Score(out of 100) :68
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.761
+Roll no: 2001003
+CPI: 9.41
+Coding Rd1 Score(out of 100) :89
+Interview Score(out of 100): 40
+Total Score(out of 10): 6.746
+Roll no: 2003003
+CPI: 8.36
+Coding Rd1 Score(out of 100) :77
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.301
+Roll no: 2007002
+CPI: 8.26
+Coding Rd1 Score(out of 100) :56
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.346
+Roll no: 2005003
+CPI: 7.71
+Coding Rd1 Score(out of 100) :8
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.131
+Roll no: 2010002
+CPI: 8.11
+Coding Rd1 Score(out of 100) :8
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.171
+Roll no: 2005002
+CPI: 8.72
+Coding Rd1 Score(out of 100) :84
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.652
+Roll no: 2009002
+CPI: 8.47
+Coding Rd1 Score(out of 100) :6
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.117
+Roll no: 2001002
+CPI: 9.11
+Coding Rd1 Score(out of 100) :11
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.406
+Roll no: 2007001
+CPI: 7.93
+Coding Rd1 Score(out of 100) :43
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.728
+Roll no: 2003002
+CPI: 7.96
+Coding Rd1 Score(out of 100) :75
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.171
+Roll no: 2001001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :33
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.32
+Roll no: 2006001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :21
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.78
+Roll no: 2009001
+CPI: 8.22
+Coding Rd1 Score(out of 100) :99
+Interview Score(out of 100): 3
+Total Score(out of 10): 5.412
+Roll no: 2002001
+CPI: 9.37
+Coding Rd1 Score(out of 100) :67
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.952
+Roll no: 2010001
+CPI: 7.36
+Coding Rd1 Score(out of 100) :88
+Interview Score(out of 100): 30
+Total Score(out of 10): 6.046
+Roll no: 2004002
+CPI: 8.95
+Coding Rd1 Score(out of 100) :26
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.065
+Roll no: 2004001
+CPI: 8.27
+Coding Rd1 Score(out of 100) :32
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.267
+Roll no: 2004003
+CPI: 7.17
+Coding Rd1 Score(out of 100) :52
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.057
+Roll no: 2011001
+CPI: 7.59
+Coding Rd1 Score(out of 100) :19
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.614
+Roll no: 2012001
+CPI: 8.33
+Coding Rd1 Score(out of 100) :27
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.048
+Roll no: 2011002
+CPI: 8.34
+Coding Rd1 Score(out of 100) :68
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.894
+Roll no: 2012002
+CPI: 7.12
+Coding Rd1 Score(out of 100) :8
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.072
+Roll no: 2002002
+CPI: 7.91
+Coding Rd1 Score(out of 100) :47
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.906
+Roll no: 2003001
+CPI: 8.95
+Coding Rd1 Score(out of 100) :86
+Interview Score(out of 100): 81
+Total Score(out of 10): 8.41
+Roll no: 2006002
+CPI: 8.64
+Coding Rd1 Score(out of 100) :76
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.284
+Roll no: 2008001
+CPI: 8.11
+Coding Rd1 Score(out of 100) :50
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.061
+Roll no: 2005001
+CPI: 8.44
+Coding Rd1 Score(out of 100) :1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.889
+Roll no: 2010003
+CPI: 7.01
+Coding Rd1 Score(out of 100) :61
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.446
+Roll no: 2001003
+CPI: 9.41
+Coding Rd1 Score(out of 100) :86
+Interview Score(out of 100): 29
+Total Score(out of 10): 6.116
+Roll no: 2003003
+CPI: 8.36
+Coding Rd1 Score(out of 100) :43
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.771
+Roll no: 2007002
+CPI: 8.26
+Coding Rd1 Score(out of 100) :74
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.156
+Roll no: 2005003
+CPI: 7.71
+Coding Rd1 Score(out of 100) :23
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.806
+Roll no: 2010002
+CPI: 8.11
+Coding Rd1 Score(out of 100) :75
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.186
+Roll no: 2005002
+CPI: 8.72
+Coding Rd1 Score(out of 100) :87
+Interview Score(out of 100): 59
+Total Score(out of 10): 7.442
+Roll no: 2009002
+CPI: 8.47
+Coding Rd1 Score(out of 100) :56
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.367
+Roll no: 2001002
+CPI: 9.11
+Coding Rd1 Score(out of 100) :56
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.431
+Roll no: 2007001
+CPI: 7.93
+Coding Rd1 Score(out of 100) :16
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.513
+Roll no: 2003002
+CPI: 7.96
+Coding Rd1 Score(out of 100) :30
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.146
+Roll no: 2001001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :49
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.04
+Roll no: 2006001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :76
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.255
+Roll no: 2009001
+CPI: 8.22
+Coding Rd1 Score(out of 100) :29
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.127
+Roll no: 2002001
+CPI: 9.37
+Coding Rd1 Score(out of 100) :77
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.402
+Roll no: 2010001
+CPI: 7.36
+Coding Rd1 Score(out of 100) :1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.781
+Roll no: 2004002
+CPI: 8.95
+Coding Rd1 Score(out of 100) :72
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.135
+Roll no: 2004001
+CPI: 8.27
+Coding Rd1 Score(out of 100) :91
+Interview Score(out of 100): 29
+Total Score(out of 10): 6.227
+Roll no: 2004003
+CPI: 7.17
+Coding Rd1 Score(out of 100) :78
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.227
+Roll no: 2011001
+CPI: 7.59
+Coding Rd1 Score(out of 100) :91
+Interview Score(out of 100): 45
+Total Score(out of 10): 6.879
+Roll no: 2012001
+CPI: 8.33
+Coding Rd1 Score(out of 100) :3
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.968
+Roll no: 2011002
+CPI: 8.34
+Coding Rd1 Score(out of 100) :11
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.329
+Roll no: 2012002
+CPI: 7.12
+Coding Rd1 Score(out of 100) :7
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.027
+Roll no: 2002002
+CPI: 7.91
+Coding Rd1 Score(out of 100) :74
+Interview Score(out of 100): 45
+Total Score(out of 10): 6.146
+Roll no: 2003001
+CPI: 8.95
+Coding Rd1 Score(out of 100) :28
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.155
+Roll no: 2006002
+CPI: 8.64
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.819
+Roll no: 2008001
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005001
+CPI: 8.44
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.799
+Roll no: 2010003
+CPI: 7.01
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.656
+Roll no: 2001003
+CPI: 9.41
+Coding Rd1 Score(out of 100) :89
+Interview Score(out of 100): 85
+Total Score(out of 10): 8.771
+Roll no: 2003003
+CPI: 8.36
+Coding Rd1 Score(out of 100) :1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.881
+Roll no: 2007002
+CPI: 8.26
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.781
+Roll no: 2005003
+CPI: 7.71
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.726
+Roll no: 2010002
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005002
+CPI: 8.72
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.827
+Roll no: 2009002
+CPI: 8.47
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.802
+Roll no: 2001002
+CPI: 9.11
+Coding Rd1 Score(out of 100) :94
+Interview Score(out of 100): 34
+Total Score(out of 10): 6.671
+Roll no: 2007001
+CPI: 7.93
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.748
+Roll no: 2003002
+CPI: 7.96
+Coding Rd1 Score(out of 100) :30
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.146
+Roll no: 2001001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :25
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.96
+Roll no: 2006001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.79
+Roll no: 2009001
+CPI: 8.22
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2002001
+CPI: 9.37
+Coding Rd1 Score(out of 100) :36
+Interview Score(out of 100): 19
+Total Score(out of 10): 3.412
+Roll no: 2010001
+CPI: 7.36
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.691
+Roll no: 2004002
+CPI: 8.95
+Coding Rd1 Score(out of 100) :28
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.155
+Roll no: 2004001
+CPI: 8.27
+Coding Rd1 Score(out of 100) :44
+Interview Score(out of 100): 63
+Total Score(out of 10): 5.642
+Roll no: 2004003
+CPI: 7.17
+Coding Rd1 Score(out of 100) :4
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.897
+Roll no: 2011001
+CPI: 7.59
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.714
+Roll no: 2012001
+CPI: 8.33
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.788
+Roll no: 2011002
+CPI: 8.34
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.789
+Roll no: 2012002
+CPI: 7.12
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2002002
+CPI: 7.91
+Coding Rd1 Score(out of 100) :78
+Interview Score(out of 100): 7
+Total Score(out of 10): 4.616
+Roll no: 2003001
+CPI: 8.95
+Coding Rd1 Score(out of 100) :68
+Interview Score(out of 100): 78
+Total Score(out of 10): 7.465
+Roll no: 2006002
+CPI: 8.64
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.819
+Roll no: 2008001
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005001
+CPI: 8.44
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.799
+Roll no: 2010003
+CPI: 7.01
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.656
+Roll no: 2001003
+CPI: 9.41
+Coding Rd1 Score(out of 100) :3
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.076
+Roll no: 2003003
+CPI: 8.36
+Coding Rd1 Score(out of 100) :47
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.951
+Roll no: 2007002
+CPI: 8.26
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.781
+Roll no: 2005003
+CPI: 7.71
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.726
+Roll no: 2010002
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005002
+CPI: 8.72
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.827
+Roll no: 2009002
+CPI: 8.47
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.802
+Roll no: 2001002
+CPI: 9.11
+Coding Rd1 Score(out of 100) :33
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.396
+Roll no: 2007001
+CPI: 7.93
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.748
+Roll no: 2003002
+CPI: 7.96
+Coding Rd1 Score(out of 100) :74
+Interview Score(out of 100): 85
+Total Score(out of 10): 7.951
+Roll no: 2001001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :42
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.725
+Roll no: 2006001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.79
+Roll no: 2009001
+CPI: 8.22
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2002001
+CPI: 9.37
+Coding Rd1 Score(out of 100) :94
+Interview Score(out of 100): 31
+Total Score(out of 10): 6.562
+Roll no: 2010001
+CPI: 7.36
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.691
+Roll no: 2004002
+CPI: 8.95
+Coding Rd1 Score(out of 100) :21
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.84
+Roll no: 2004001
+CPI: 8.27
+Coding Rd1 Score(out of 100) :42
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.717
+Roll no: 2004003
+CPI: 7.17
+Coding Rd1 Score(out of 100) :81
+Interview Score(out of 100): 36
+Total Score(out of 10): 5.982
+Roll no: 2011001
+CPI: 7.59
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.714
+Roll no: 2012001
+CPI: 8.33
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.788
+Roll no: 2011002
+CPI: 8.34
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.789
+Roll no: 2012002
+CPI: 7.12
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2002002
+CPI: 7.91
+Coding Rd1 Score(out of 100) :90
+Interview Score(out of 100): 45
+Total Score(out of 10): 6.866
+Roll no: 2003001
+CPI: 8.95
+Coding Rd1 Score(out of 100) :9
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.3
+Roll no: 2006002
+CPI: 8.64
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.819
+Roll no: 2008001
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005001
+CPI: 8.44
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.799
+Roll no: 2010003
+CPI: 7.01
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.656
+Roll no: 2001003
+CPI: 9.41
+Coding Rd1 Score(out of 100) :19
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.796
+Roll no: 2003003
+CPI: 8.36
+Coding Rd1 Score(out of 100) :8
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.196
+Roll no: 2007002
+CPI: 8.26
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.781
+Roll no: 2005003
+CPI: 7.71
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.726
+Roll no: 2010002
+CPI: 8.11
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.766
+Roll no: 2005002
+CPI: 8.72
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.827
+Roll no: 2009002
+CPI: 8.47
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.802
+Roll no: 2001002
+CPI: 9.11
+Coding Rd1 Score(out of 100) :41
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.756
+Roll no: 2007001
+CPI: 7.93
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.748
+Roll no: 2003002
+CPI: 7.96
+Coding Rd1 Score(out of 100) :87
+Interview Score(out of 100): 80
+Total Score(out of 10): 8.311
+Roll no: 2001001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :45
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.86
+Roll no: 2006001
+CPI: 8.35
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.79
+Roll no: 2009001
+CPI: 8.22
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2002001
+CPI: 9.37
+Coding Rd1 Score(out of 100) :97
+Interview Score(out of 100): 63
+Total Score(out of 10): 8.137
+Roll no: 2010001
+CPI: 7.36
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.691
+Roll no: 2004002
+CPI: 8.95
+Coding Rd1 Score(out of 100) :59
+Interview Score(out of 100): 94
+Total Score(out of 10): 7.78
+Roll no: 2004001
+CPI: 8.27
+Coding Rd1 Score(out of 100) :48
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.987
+Roll no: 2004003
+CPI: 7.17
+Coding Rd1 Score(out of 100) :93
+Interview Score(out of 100): 82
+Total Score(out of 10): 8.592
+Roll no: 2011001
+CPI: 7.59
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.714
+Roll no: 2012001
+CPI: 8.33
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.788
+Roll no: 2011002
+CPI: 8.34
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.789
+Roll no: 2012002
+CPI: 7.12
+Coding Rd1 Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2002002
+CPI: 7.91
+Written Math Test Score(out of 100) :41
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.222
+Roll no: 2003001
+CPI: 8.95
+Written Math Test Score(out of 100) :78
+Interview Score(out of 100): 88
+Total Score(out of 10): 8.43
+Roll no: 2006002
+CPI: 8.64
+Written Math Test Score(out of 100) :35
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.128
+Roll no: 2008001
+CPI: 8.11
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.582
+Roll no: 2005001
+CPI: 8.44
+Written Math Test Score(out of 100) :49
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.648
+Roll no: 2010003
+CPI: 7.01
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.362
+Roll no: 2001003
+CPI: 9.41
+Written Math Test Score(out of 100) :50
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.882
+Roll no: 2003003
+CPI: 8.36
+Written Math Test Score(out of 100) :96
+Interview Score(out of 100): 96
+Total Score(out of 10): 9.352
+Roll no: 2007002
+CPI: 8.26
+Written Math Test Score(out of 100) :92
+Interview Score(out of 100): 60
+Total Score(out of 10): 7.732
+Roll no: 2005003
+CPI: 7.71
+Written Math Test Score(out of 100) :98
+Interview Score(out of 100): 92
+Total Score(out of 10): 9.142
+Roll no: 2010002
+CPI: 8.11
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.582
+Roll no: 2005002
+CPI: 8.72
+Written Math Test Score(out of 100) :36
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.184
+Roll no: 2009002
+CPI: 8.47
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.654
+Roll no: 2001002
+CPI: 9.11
+Written Math Test Score(out of 100) :46
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.662
+Roll no: 2007001
+CPI: 7.93
+Written Math Test Score(out of 100) :47
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.466
+Roll no: 2003002
+CPI: 7.96
+Written Math Test Score(out of 100) :13
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.112
+Roll no: 2001001
+CPI: 8.35
+Written Math Test Score(out of 100) :28
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.79
+Roll no: 2006001
+CPI: 8.35
+Written Math Test Score(out of 100) :50
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.67
+Roll no: 2009001
+CPI: 8.22
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.604
+Roll no: 2002001
+CPI: 9.37
+Written Math Test Score(out of 100) :0
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.874
+Roll no: 2010001
+CPI: 7.36
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.432
+Roll no: 2004002
+CPI: 8.95
+Written Math Test Score(out of 100) :74
+Interview Score(out of 100): 76
+Total Score(out of 10): 7.79
+Roll no: 2004001
+CPI: 8.27
+Written Math Test Score(out of 100) :74
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.614
+Roll no: 2004003
+CPI: 7.17
+Written Math Test Score(out of 100) :22
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.314
+Roll no: 2011001
+CPI: 7.59
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.478
+Roll no: 2012001
+CPI: 8.33
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.626
+Roll no: 2011002
+CPI: 8.34
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.628
+Roll no: 2012002
+CPI: 7.12
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.384
+Roll no: 2002002
+CPI: 7.91
+Written Math Test Score(out of 100) :92
+Interview Score(out of 100): 14
+Total Score(out of 10): 5.822
+Roll no: 2003001
+CPI: 8.95
+Written Math Test Score(out of 100) :60
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.19
+Roll no: 2006002
+CPI: 8.64
+Written Math Test Score(out of 100) :25
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.728
+Roll no: 2008001
+CPI: 8.11
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.582
+Roll no: 2005001
+CPI: 8.44
+Written Math Test Score(out of 100) :6
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.928
+Roll no: 2010003
+CPI: 7.01
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.362
+Roll no: 2001003
+CPI: 9.41
+Written Math Test Score(out of 100) :93
+Interview Score(out of 100): 75
+Total Score(out of 10): 8.602
+Roll no: 2003003
+CPI: 8.36
+Written Math Test Score(out of 100) :19
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.432
+Roll no: 2007002
+CPI: 8.26
+Written Math Test Score(out of 100) :59
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.012
+Roll no: 2005003
+CPI: 7.71
+Written Math Test Score(out of 100) :30
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.742
+Roll no: 2010002
+CPI: 8.11
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.582
+Roll no: 2005002
+CPI: 8.72
+Written Math Test Score(out of 100) :97
+Interview Score(out of 100): 53
+Total Score(out of 10): 7.744
+Roll no: 2009002
+CPI: 8.47
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.654
+Roll no: 2001002
+CPI: 9.11
+Written Math Test Score(out of 100) :84
+Interview Score(out of 100): 7
+Total Score(out of 10): 5.462
+Roll no: 2007001
+CPI: 7.93
+Written Math Test Score(out of 100) :71
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.426
+Roll no: 2003002
+CPI: 7.96
+Written Math Test Score(out of 100) :45
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.392
+Roll no: 2001001
+CPI: 8.35
+Written Math Test Score(out of 100) :74
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.63
+Roll no: 2006001
+CPI: 8.35
+Written Math Test Score(out of 100) :86
+Interview Score(out of 100): 43
+Total Score(out of 10): 6.83
+Roll no: 2009001
+CPI: 8.22
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.604
+Roll no: 2002001
+CPI: 9.37
+Written Math Test Score(out of 100) :61
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.314
+Roll no: 2010001
+CPI: 7.36
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.432
+Roll no: 2004002
+CPI: 8.95
+Written Math Test Score(out of 100) :33
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.11
+Roll no: 2004001
+CPI: 8.27
+Written Math Test Score(out of 100) :15
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.254
+Roll no: 2004003
+CPI: 7.17
+Written Math Test Score(out of 100) :7
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.714
+Roll no: 2011001
+CPI: 7.59
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.478
+Roll no: 2012001
+CPI: 8.33
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.626
+Roll no: 2011002
+CPI: 8.34
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.628
+Roll no: 2012002
+CPI: 7.12
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.384
+Roll no: 2002002
+CPI: 7.91
+Written Math Test Score(out of 100) :54
+Interview Score(out of 100): 75
+Total Score(out of 10): 6.742
+Roll no: 2003001
+CPI: 8.95
+Written Math Test Score(out of 100) :22
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.67
+Roll no: 2006002
+CPI: 8.64
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.688
+Roll no: 2008001
+CPI: 8.11
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.582
+Roll no: 2005001
+CPI: 8.44
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.648
+Roll no: 2010003
+CPI: 7.01
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.362
+Roll no: 2001003
+CPI: 9.41
+Written Math Test Score(out of 100) :19
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.642
+Roll no: 2003003
+CPI: 8.36
+Written Math Test Score(out of 100) :38
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.192
+Roll no: 2007002
+CPI: 8.26
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.612
+Roll no: 2005003
+CPI: 7.71
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.502
+Roll no: 2010002
+CPI: 8.11
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.582
+Roll no: 2005002
+CPI: 8.72
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.704
+Roll no: 2009002
+CPI: 8.47
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.654
+Roll no: 2001002
+CPI: 9.11
+Written Math Test Score(out of 100) :96
+Interview Score(out of 100): 21
+Total Score(out of 10): 6.502
+Roll no: 2007001
+CPI: 7.93
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.546
+Roll no: 2003002
+CPI: 7.96
+Written Math Test Score(out of 100) :82
+Interview Score(out of 100): 49
+Total Score(out of 10): 6.832
+Roll no: 2001001
+CPI: 8.35
+Written Math Test Score(out of 100) :76
+Interview Score(out of 100): 89
+Total Score(out of 10): 8.27
+Roll no: 2006001
+CPI: 8.35
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.63
+Roll no: 2009001
+CPI: 8.22
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.604
+Roll no: 2002001
+CPI: 9.37
+Written Math Test Score(out of 100) :94
+Interview Score(out of 100): 24
+Total Score(out of 10): 6.594
+Roll no: 2010001
+CPI: 7.36
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.432
+Roll no: 2004002
+CPI: 8.95
+Written Math Test Score(out of 100) :14
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.35
+Roll no: 2004001
+CPI: 8.27
+Written Math Test Score(out of 100) :19
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.414
+Roll no: 2004003
+CPI: 7.17
+Written Math Test Score(out of 100) :39
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.994
+Roll no: 2011001
+CPI: 7.59
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.478
+Roll no: 2012001
+CPI: 8.33
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.626
+Roll no: 2011002
+CPI: 8.34
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.628
+Roll no: 2012002
+CPI: 7.12
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.384
+Roll no: 2002002
+CPI: 7.91
+Written Math Test Score(out of 100) :78
+Interview Score(out of 100): 62
+Total Score(out of 10): 7.182
+Roll no: 2003001
+CPI: 8.95
+Written Math Test Score(out of 100) :2
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.87
+Roll no: 2006002
+CPI: 8.64
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.688
+Roll no: 2008001
+CPI: 8.11
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.582
+Roll no: 2005001
+CPI: 8.44
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.648
+Roll no: 2010003
+CPI: 7.01
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.362
+Roll no: 2001003
+CPI: 9.41
+Written Math Test Score(out of 100) :14
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.442
+Roll no: 2003003
+CPI: 8.36
+Written Math Test Score(out of 100) :62
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.152
+Roll no: 2007002
+CPI: 8.26
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.612
+Roll no: 2005003
+CPI: 7.71
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.502
+Roll no: 2010002
+CPI: 8.11
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.582
+Roll no: 2005002
+CPI: 8.72
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.704
+Roll no: 2009002
+CPI: 8.47
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.654
+Roll no: 2001002
+CPI: 9.11
+Written Math Test Score(out of 100) :23
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.742
+Roll no: 2007001
+CPI: 7.93
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.546
+Roll no: 2003002
+CPI: 7.96
+Written Math Test Score(out of 100) :77
+Interview Score(out of 100): 3
+Total Score(out of 10): 4.792
+Roll no: 2001001
+CPI: 8.35
+Written Math Test Score(out of 100) :28
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.79
+Roll no: 2006001
+CPI: 8.35
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.63
+Roll no: 2009001
+CPI: 8.22
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.604
+Roll no: 2002001
+CPI: 9.37
+Written Math Test Score(out of 100) :76
+Interview Score(out of 100): 69
+Total Score(out of 10): 7.674
+Roll no: 2010001
+CPI: 7.36
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.432
+Roll no: 2004002
+CPI: 8.95
+Written Math Test Score(out of 100) :99
+Interview Score(out of 100): 76
+Total Score(out of 10): 8.79
+Roll no: 2004001
+CPI: 8.27
+Written Math Test Score(out of 100) :98
+Interview Score(out of 100): 90
+Total Score(out of 10): 9.174
+Roll no: 2004003
+CPI: 7.17
+Written Math Test Score(out of 100) :44
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.194
+Roll no: 2011001
+CPI: 7.59
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.478
+Roll no: 2012001
+CPI: 8.33
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.626
+Roll no: 2011002
+CPI: 8.34
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.628
+Roll no: 2012002
+CPI: 7.12
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.384
+Roll no: 2002002
+CPI: 7.91
+Written Math Test Score(out of 100) :69
+Interview Score(out of 100): 52
+Total Score(out of 10): 6.422
+Roll no: 2003001
+CPI: 8.95
+Written Math Test Score(out of 100) :84
+Interview Score(out of 100): 28
+Total Score(out of 10): 6.27
+Roll no: 2006002
+CPI: 8.64
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.688
+Roll no: 2008001
+CPI: 8.11
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.582
+Roll no: 2005001
+CPI: 8.44
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.648
+Roll no: 2010003
+CPI: 7.01
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.362
+Roll no: 2001003
+CPI: 9.41
+Written Math Test Score(out of 100) :13
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.402
+Roll no: 2003003
+CPI: 8.36
+Written Math Test Score(out of 100) :80
+Interview Score(out of 100): 61
+Total Score(out of 10): 7.312
+Roll no: 2007002
+CPI: 8.26
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.612
+Roll no: 2005003
+CPI: 7.71
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.502
+Roll no: 2010002
+CPI: 8.11
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.582
+Roll no: 2005002
+CPI: 8.72
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.704
+Roll no: 2009002
+CPI: 8.47
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.654
+Roll no: 2001002
+CPI: 9.11
+Written Math Test Score(out of 100) :33
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.142
+Roll no: 2007001
+CPI: 7.93
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.546
+Roll no: 2003002
+CPI: 7.96
+Written Math Test Score(out of 100) :65
+Interview Score(out of 100): 55
+Total Score(out of 10): 6.392
+Roll no: 2001001
+CPI: 8.35
+Written Math Test Score(out of 100) :42
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.35
+Roll no: 2006001
+CPI: 8.35
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.63
+Roll no: 2009001
+CPI: 8.22
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.604
+Roll no: 2002001
+CPI: 9.37
+Written Math Test Score(out of 100) :76
+Interview Score(out of 100): 51
+Total Score(out of 10): 6.954
+Roll no: 2010001
+CPI: 7.36
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.432
+Roll no: 2004002
+CPI: 8.95
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.75
+Roll no: 2004001
+CPI: 8.27
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.614
+Roll no: 2004003
+CPI: 7.17
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.394
+Roll no: 2011001
+CPI: 7.59
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.478
+Roll no: 2012001
+CPI: 8.33
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.626
+Roll no: 2011002
+CPI: 8.34
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.628
+Roll no: 2012002
+CPI: 7.12
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.384
+Roll no: 2002002
+CPI: 7.91
+Written Math Test Score(out of 100) :84
+Interview Score(out of 100): 41
+Total Score(out of 10): 6.582
+Roll no: 2003001
+CPI: 8.95
+Written Math Test Score(out of 100) :43
+Interview Score(out of 100): 79
+Total Score(out of 10): 6.67
+Roll no: 2006002
+CPI: 8.64
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.688
+Roll no: 2008001
+CPI: 8.11
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.582
+Roll no: 2005001
+CPI: 8.44
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.648
+Roll no: 2010003
+CPI: 7.01
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.362
+Roll no: 2001003
+CPI: 9.41
+Written Math Test Score(out of 100) :26
+Interview Score(out of 100): 19
+Total Score(out of 10): 3.682
+Roll no: 2003003
+CPI: 8.36
+Written Math Test Score(out of 100) :55
+Interview Score(out of 100): 82
+Total Score(out of 10): 7.152
+Roll no: 2007002
+CPI: 8.26
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.612
+Roll no: 2005003
+CPI: 7.71
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.502
+Roll no: 2010002
+CPI: 8.11
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.582
+Roll no: 2005002
+CPI: 8.72
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.704
+Roll no: 2009002
+CPI: 8.47
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.654
+Roll no: 2001002
+CPI: 9.11
+Written Math Test Score(out of 100) :5
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.022
+Roll no: 2007001
+CPI: 7.93
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.546
+Roll no: 2003002
+CPI: 7.96
+Written Math Test Score(out of 100) :57
+Interview Score(out of 100): 32
+Total Score(out of 10): 5.152
+Roll no: 2001001
+CPI: 8.35
+Written Math Test Score(out of 100) :11
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.11
+Roll no: 2006001
+CPI: 8.35
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.63
+Roll no: 2009001
+CPI: 8.22
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.604
+Roll no: 2002001
+CPI: 9.37
+Written Math Test Score(out of 100) :19
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.634
+Roll no: 2010001
+CPI: 7.36
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.432
+Roll no: 2004002
+CPI: 8.95
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.75
+Roll no: 2004001
+CPI: 8.27
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.614
+Roll no: 2004003
+CPI: 7.17
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.394
+Roll no: 2011001
+CPI: 7.59
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.478
+Roll no: 2012001
+CPI: 8.33
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.626
+Roll no: 2011002
+CPI: 8.34
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.628
+Roll no: 2012002
+CPI: 7.12
+Written Math Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.384
+Roll no: 2002002
+CPI: 7.91
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.741
+Roll no: 2003001
+CPI: 8.95
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.845
+Roll no: 2006002
+CPI: 8.64
+Wriiten Test Score(out of 100) :6
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.164
+Roll no: 2008001
+CPI: 8.11
+Wriiten Test Score(out of 100) :64
+Interview Score(out of 100): 39
+Total Score(out of 10): 5.571
+Roll no: 2005001
+CPI: 8.44
+Wriiten Test Score(out of 100) :3
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.994
+Roll no: 2010003
+CPI: 7.01
+Wriiten Test Score(out of 100) :26
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.001
+Roll no: 2001003
+CPI: 9.41
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.891
+Roll no: 2003003
+CPI: 8.36
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.786
+Roll no: 2007002
+CPI: 8.26
+Wriiten Test Score(out of 100) :82
+Interview Score(out of 100): 66
+Total Score(out of 10): 7.566
+Roll no: 2005003
+CPI: 7.71
+Wriiten Test Score(out of 100) :65
+Interview Score(out of 100): 35
+Total Score(out of 10): 5.421
+Roll no: 2010002
+CPI: 8.11
+Wriiten Test Score(out of 100) :31
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.361
+Roll no: 2005002
+CPI: 8.72
+Wriiten Test Score(out of 100) :2
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.972
+Roll no: 2009002
+CPI: 8.47
+Wriiten Test Score(out of 100) :16
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.647
+Roll no: 2001002
+CPI: 9.11
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.861
+Roll no: 2007001
+CPI: 7.93
+Wriiten Test Score(out of 100) :62
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.893
+Roll no: 2003002
+CPI: 7.96
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.746
+Roll no: 2001001
+CPI: 8.35
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.785
+Roll no: 2006001
+CPI: 8.35
+Wriiten Test Score(out of 100) :98
+Interview Score(out of 100): 14
+Total Score(out of 10): 6.295
+Roll no: 2009001
+CPI: 8.22
+Wriiten Test Score(out of 100) :74
+Interview Score(out of 100): 85
+Total Score(out of 10): 7.922
+Roll no: 2002001
+CPI: 9.37
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.887
+Roll no: 2010001
+CPI: 7.36
+Wriiten Test Score(out of 100) :38
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.636
+Roll no: 2004002
+CPI: 8.95
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.845
+Roll no: 2004001
+CPI: 8.27
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2004003
+CPI: 7.17
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2011001
+CPI: 7.59
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.709
+Roll no: 2012001
+CPI: 8.33
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.783
+Roll no: 2011002
+CPI: 8.34
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.784
+Roll no: 2012002
+CPI: 7.12
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.662
+Roll no: 2002002
+CPI: 7.91
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.741
+Roll no: 2003001
+CPI: 8.95
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.845
+Roll no: 2006002
+CPI: 8.64
+Wriiten Test Score(out of 100) :38
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.764
+Roll no: 2008001
+CPI: 8.11
+Wriiten Test Score(out of 100) :84
+Interview Score(out of 100): 92
+Total Score(out of 10): 8.691
+Roll no: 2005001
+CPI: 8.44
+Wriiten Test Score(out of 100) :27
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.194
+Roll no: 2010003
+CPI: 7.01
+Wriiten Test Score(out of 100) :95
+Interview Score(out of 100): 80
+Total Score(out of 10): 8.651
+Roll no: 2001003
+CPI: 9.41
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.891
+Roll no: 2003003
+CPI: 8.36
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.786
+Roll no: 2007002
+CPI: 8.26
+Wriiten Test Score(out of 100) :79
+Interview Score(out of 100): 60
+Total Score(out of 10): 7.176
+Roll no: 2005003
+CPI: 7.71
+Wriiten Test Score(out of 100) :14
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.471
+Roll no: 2010002
+CPI: 8.11
+Wriiten Test Score(out of 100) :41
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.861
+Roll no: 2005002
+CPI: 8.72
+Wriiten Test Score(out of 100) :45
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.122
+Roll no: 2009002
+CPI: 8.47
+Wriiten Test Score(out of 100) :40
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.847
+Roll no: 2001002
+CPI: 9.11
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.861
+Roll no: 2007001
+CPI: 7.93
+Wriiten Test Score(out of 100) :95
+Interview Score(out of 100): 25
+Total Score(out of 10): 6.543
+Roll no: 2003002
+CPI: 7.96
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.746
+Roll no: 2001001
+CPI: 8.35
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.785
+Roll no: 2006001
+CPI: 8.35
+Wriiten Test Score(out of 100) :2
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.935
+Roll no: 2009001
+CPI: 8.22
+Wriiten Test Score(out of 100) :8
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.222
+Roll no: 2002001
+CPI: 9.37
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.887
+Roll no: 2010001
+CPI: 7.36
+Wriiten Test Score(out of 100) :45
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.986
+Roll no: 2004002
+CPI: 8.95
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.845
+Roll no: 2004001
+CPI: 8.27
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2004003
+CPI: 7.17
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2011001
+CPI: 7.59
+Wriiten Test Score(out of 100) :20
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.759
+Roll no: 2012001
+CPI: 8.33
+Wriiten Test Score(out of 100) :49
+Interview Score(out of 100): 92
+Total Score(out of 10): 6.963
+Roll no: 2011002
+CPI: 8.34
+Wriiten Test Score(out of 100) :25
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.084
+Roll no: 2012002
+CPI: 7.12
+Wriiten Test Score(out of 100) :35
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.462
+Roll no: 2002002
+CPI: 7.91
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.741
+Roll no: 2003001
+CPI: 8.95
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.845
+Roll no: 2006002
+CPI: 8.64
+Wriiten Test Score(out of 100) :51
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.414
+Roll no: 2008001
+CPI: 8.11
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.761
+Roll no: 2005001
+CPI: 8.44
+Wriiten Test Score(out of 100) :69
+Interview Score(out of 100): 60
+Total Score(out of 10): 6.694
+Roll no: 2010003
+CPI: 7.01
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.651
+Roll no: 2001003
+CPI: 9.41
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.891
+Roll no: 2003003
+CPI: 8.36
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.786
+Roll no: 2007002
+CPI: 8.26
+Wriiten Test Score(out of 100) :19
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.776
+Roll no: 2005003
+CPI: 7.71
+Wriiten Test Score(out of 100) :98
+Interview Score(out of 100): 29
+Total Score(out of 10): 6.831
+Roll no: 2010002
+CPI: 8.11
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.761
+Roll no: 2005002
+CPI: 8.72
+Wriiten Test Score(out of 100) :34
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.572
+Roll no: 2009002
+CPI: 8.47
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.797
+Roll no: 2001002
+CPI: 9.11
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.861
+Roll no: 2007001
+CPI: 7.93
+Wriiten Test Score(out of 100) :51
+Interview Score(out of 100): 18
+Total Score(out of 10): 4.063
+Roll no: 2003002
+CPI: 7.96
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.746
+Roll no: 2001001
+CPI: 8.35
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.785
+Roll no: 2006001
+CPI: 8.35
+Wriiten Test Score(out of 100) :26
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.135
+Roll no: 2009001
+CPI: 8.22
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.772
+Roll no: 2002001
+CPI: 9.37
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.887
+Roll no: 2010001
+CPI: 7.36
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.686
+Roll no: 2004002
+CPI: 8.95
+Wriiten Test Score(out of 100) :30
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.395
+Roll no: 2004001
+CPI: 8.27
+Wriiten Test Score(out of 100) :58
+Interview Score(out of 100): 41
+Total Score(out of 10): 5.367
+Roll no: 2004003
+CPI: 7.17
+Wriiten Test Score(out of 100) :35
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.467
+Roll no: 2011001
+CPI: 7.59
+Wriiten Test Score(out of 100) :51
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.309
+Roll no: 2012001
+CPI: 8.33
+Wriiten Test Score(out of 100) :58
+Interview Score(out of 100): 90
+Total Score(out of 10): 7.333
+Roll no: 2011002
+CPI: 8.34
+Wriiten Test Score(out of 100) :47
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.184
+Roll no: 2012002
+CPI: 7.12
+Wriiten Test Score(out of 100) :42
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.812
+Roll no: 2002002
+CPI: 7.91
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.741
+Roll no: 2003001
+CPI: 8.95
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.845
+Roll no: 2006002
+CPI: 8.64
+Wriiten Test Score(out of 100) :0
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.864
+Roll no: 2008001
+CPI: 8.11
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.761
+Roll no: 2005001
+CPI: 8.44
+Wriiten Test Score(out of 100) :64
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.044
+Roll no: 2010003
+CPI: 7.01
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.651
+Roll no: 2001003
+CPI: 9.41
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.891
+Roll no: 2003003
+CPI: 8.36
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.786
+Roll no: 2007002
+CPI: 8.26
+Wriiten Test Score(out of 100) :82
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.926
+Roll no: 2005003
+CPI: 7.71
+Wriiten Test Score(out of 100) :83
+Interview Score(out of 100): 69
+Total Score(out of 10): 7.681
+Roll no: 2010002
+CPI: 8.11
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.761
+Roll no: 2005002
+CPI: 8.72
+Wriiten Test Score(out of 100) :91
+Interview Score(out of 100): 62
+Total Score(out of 10): 7.902
+Roll no: 2009002
+CPI: 8.47
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.797
+Roll no: 2001002
+CPI: 9.11
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.861
+Roll no: 2007001
+CPI: 7.93
+Wriiten Test Score(out of 100) :84
+Interview Score(out of 100): 32
+Total Score(out of 10): 6.273
+Roll no: 2003002
+CPI: 7.96
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.746
+Roll no: 2001001
+CPI: 8.35
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.785
+Roll no: 2006001
+CPI: 8.35
+Wriiten Test Score(out of 100) :63
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.985
+Roll no: 2009001
+CPI: 8.22
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.772
+Roll no: 2002001
+CPI: 9.37
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.887
+Roll no: 2010001
+CPI: 7.36
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.686
+Roll no: 2004002
+CPI: 8.95
+Wriiten Test Score(out of 100) :45
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.145
+Roll no: 2004001
+CPI: 8.27
+Wriiten Test Score(out of 100) :35
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.577
+Roll no: 2004003
+CPI: 7.17
+Wriiten Test Score(out of 100) :45
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.967
+Roll no: 2011001
+CPI: 7.59
+Wriiten Test Score(out of 100) :81
+Interview Score(out of 100): 46
+Total Score(out of 10): 6.649
+Roll no: 2012001
+CPI: 8.33
+Wriiten Test Score(out of 100) :39
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.783
+Roll no: 2011002
+CPI: 8.34
+Wriiten Test Score(out of 100) :29
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.284
+Roll no: 2012002
+CPI: 7.12
+Wriiten Test Score(out of 100) :9
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.162
+Roll no: 2002002
+CPI: 7.91
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.741
+Roll no: 2003001
+CPI: 8.95
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.845
+Roll no: 2006002
+CPI: 8.64
+Wriiten Test Score(out of 100) :99
+Interview Score(out of 100): 28
+Total Score(out of 10): 6.934
+Roll no: 2008001
+CPI: 8.11
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.761
+Roll no: 2005001
+CPI: 8.44
+Wriiten Test Score(out of 100) :79
+Interview Score(out of 100): 69
+Total Score(out of 10): 7.554
+Roll no: 2010003
+CPI: 7.01
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.651
+Roll no: 2001003
+CPI: 9.41
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.891
+Roll no: 2003003
+CPI: 8.36
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.786
+Roll no: 2007002
+CPI: 8.26
+Wriiten Test Score(out of 100) :68
+Interview Score(out of 100): 22
+Total Score(out of 10): 5.106
+Roll no: 2005003
+CPI: 7.71
+Wriiten Test Score(out of 100) :99
+Interview Score(out of 100): 35
+Total Score(out of 10): 7.121
+Roll no: 2010002
+CPI: 8.11
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.761
+Roll no: 2005002
+CPI: 8.72
+Wriiten Test Score(out of 100) :34
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.572
+Roll no: 2009002
+CPI: 8.47
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.797
+Roll no: 2001002
+CPI: 9.11
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.861
+Roll no: 2007001
+CPI: 7.93
+Wriiten Test Score(out of 100) :46
+Interview Score(out of 100): 46
+Total Score(out of 10): 4.933
+Roll no: 2003002
+CPI: 7.96
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.746
+Roll no: 2001001
+CPI: 8.35
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.785
+Roll no: 2006001
+CPI: 8.35
+Wriiten Test Score(out of 100) :30
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.335
+Roll no: 2009001
+CPI: 8.22
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.772
+Roll no: 2002001
+CPI: 9.37
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.887
+Roll no: 2010001
+CPI: 7.36
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.686
+Roll no: 2004002
+CPI: 8.95
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.845
+Roll no: 2004001
+CPI: 8.27
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2004003
+CPI: 7.17
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2011001
+CPI: 7.59
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.709
+Roll no: 2012001
+CPI: 8.33
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.783
+Roll no: 2011002
+CPI: 8.34
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.784
+Roll no: 2012002
+CPI: 7.12
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.662
+Roll no: 2002002
+CPI: 7.91
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.741
+Roll no: 2003001
+CPI: 8.95
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.845
+Roll no: 2006002
+CPI: 8.64
+Wriiten Test Score(out of 100) :84
+Interview Score(out of 100): 92
+Total Score(out of 10): 8.744
+Roll no: 2008001
+CPI: 8.11
+Wriiten Test Score(out of 100) :61
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.861
+Roll no: 2005001
+CPI: 8.44
+Wriiten Test Score(out of 100) :68
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.244
+Roll no: 2010003
+CPI: 7.01
+Wriiten Test Score(out of 100) :79
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.651
+Roll no: 2001003
+CPI: 9.41
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.891
+Roll no: 2003003
+CPI: 8.36
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.786
+Roll no: 2007002
+CPI: 8.26
+Wriiten Test Score(out of 100) :69
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.276
+Roll no: 2005003
+CPI: 7.71
+Wriiten Test Score(out of 100) :37
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.621
+Roll no: 2010002
+CPI: 8.11
+Wriiten Test Score(out of 100) :5
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.061
+Roll no: 2005002
+CPI: 8.72
+Wriiten Test Score(out of 100) :80
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.872
+Roll no: 2009002
+CPI: 8.47
+Wriiten Test Score(out of 100) :95
+Interview Score(out of 100): 86
+Total Score(out of 10): 9.037
+Roll no: 2001002
+CPI: 9.11
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.861
+Roll no: 2007001
+CPI: 7.93
+Wriiten Test Score(out of 100) :62
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.893
+Roll no: 2003002
+CPI: 7.96
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.746
+Roll no: 2001001
+CPI: 8.35
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.785
+Roll no: 2006001
+CPI: 8.35
+Wriiten Test Score(out of 100) :97
+Interview Score(out of 100): 21
+Total Score(out of 10): 6.525
+Roll no: 2009001
+CPI: 8.22
+Wriiten Test Score(out of 100) :21
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.872
+Roll no: 2002001
+CPI: 9.37
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.887
+Roll no: 2010001
+CPI: 7.36
+Wriiten Test Score(out of 100) :51
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.286
+Roll no: 2004002
+CPI: 8.95
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.845
+Roll no: 2004001
+CPI: 8.27
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.777
+Roll no: 2004003
+CPI: 7.17
+Wriiten Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 0.667
+Roll no: 2011001
+CPI: 7.59
+Wriiten Test Score(out of 100) :90
+Interview Score(out of 100): 23
+Total Score(out of 10): 6.179
+Roll no: 2012001
+CPI: 8.33
+Wriiten Test Score(out of 100) :89
+Interview Score(out of 100): 45
+Total Score(out of 10): 7.083
+Roll no: 2011002
+CPI: 8.34
+Wriiten Test Score(out of 100) :73
+Interview Score(out of 100): 0
+Total Score(out of 10): 4.484
+Roll no: 2012002
+CPI: 7.12
+Wriiten Test Score(out of 100) :13
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.362
+Roll no: 2002002
+CPI: 7.91
+Written Analytics Test Score(out of 100) :15
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.7115
+Roll no: 2003001
+CPI: 8.95
+Written Analytics Test Score(out of 100) :39
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.7075
+Roll no: 2006002
+CPI: 8.64
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.261
+Roll no: 2008001
+CPI: 8.11
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.1815
+Roll no: 2005001
+CPI: 8.44
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.231
+Roll no: 2010003
+CPI: 7.01
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.0165
+Roll no: 2001003
+CPI: 9.41
+Written Analytics Test Score(out of 100) :10
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.7615
+Roll no: 2003003
+CPI: 8.36
+Written Analytics Test Score(out of 100) :0
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.254
+Roll no: 2007002
+CPI: 8.26
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.204
+Roll no: 2005003
+CPI: 7.71
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.1215
+Roll no: 2010002
+CPI: 8.11
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.1815
+Roll no: 2005002
+CPI: 8.72
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.273
+Roll no: 2009002
+CPI: 8.47
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.2355
+Roll no: 2001002
+CPI: 9.11
+Written Analytics Test Score(out of 100) :21
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.1015
+Roll no: 2007001
+CPI: 7.93
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.1545
+Roll no: 2003002
+CPI: 7.96
+Written Analytics Test Score(out of 100) :84
+Interview Score(out of 100): 23
+Total Score(out of 10): 5.284
+Roll no: 2001001
+CPI: 8.35
+Written Analytics Test Score(out of 100) :90
+Interview Score(out of 100): 43
+Total Score(out of 10): 6.5525
+Roll no: 2006001
+CPI: 8.35
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.2175
+Roll no: 2009001
+CPI: 8.22
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.198
+Roll no: 2002001
+CPI: 9.37
+Written Analytics Test Score(out of 100) :40
+Interview Score(out of 100): 31
+Total Score(out of 10): 4.3555
+Roll no: 2010001
+CPI: 7.36
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.069
+Roll no: 2004002
+CPI: 8.95
+Written Analytics Test Score(out of 100) :30
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.3925
+Roll no: 2004001
+CPI: 8.27
+Written Analytics Test Score(out of 100) :94
+Interview Score(out of 100): 74
+Total Score(out of 10): 8.2305
+Roll no: 2004003
+CPI: 7.17
+Written Analytics Test Score(out of 100) :92
+Interview Score(out of 100): 2
+Total Score(out of 10): 4.3955
+Roll no: 2011001
+CPI: 7.59
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.1035
+Roll no: 2012001
+CPI: 8.33
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.2145
+Roll no: 2011002
+CPI: 8.34
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.216
+Roll no: 2012002
+CPI: 7.12
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.033
+Roll no: 2002002
+CPI: 7.91
+Written Analytics Test Score(out of 100) :26
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.0965
+Roll no: 2003001
+CPI: 8.95
+Written Analytics Test Score(out of 100) :33
+Interview Score(out of 100): 83
+Total Score(out of 10): 6.6475
+Roll no: 2006002
+CPI: 8.64
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.261
+Roll no: 2008001
+CPI: 8.11
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.1815
+Roll no: 2005001
+CPI: 8.44
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.231
+Roll no: 2010003
+CPI: 7.01
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.0165
+Roll no: 2001003
+CPI: 9.41
+Written Analytics Test Score(out of 100) :49
+Interview Score(out of 100): 48
+Total Score(out of 10): 5.5265
+Roll no: 2003003
+CPI: 8.36
+Written Analytics Test Score(out of 100) :32
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.374
+Roll no: 2007002
+CPI: 8.26
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.204
+Roll no: 2005003
+CPI: 7.71
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.1215
+Roll no: 2010002
+CPI: 8.11
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.1815
+Roll no: 2005002
+CPI: 8.72
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.273
+Roll no: 2009002
+CPI: 8.47
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.2355
+Roll no: 2001002
+CPI: 9.11
+Written Analytics Test Score(out of 100) :51
+Interview Score(out of 100): 93
+Total Score(out of 10): 7.8015
+Roll no: 2007001
+CPI: 7.93
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.1545
+Roll no: 2003002
+CPI: 7.96
+Written Analytics Test Score(out of 100) :70
+Interview Score(out of 100): 91
+Total Score(out of 10): 8.194
+Roll no: 2001001
+CPI: 8.35
+Written Analytics Test Score(out of 100) :18
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.8825
+Roll no: 2006001
+CPI: 8.35
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.2175
+Roll no: 2009001
+CPI: 8.22
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.198
+Roll no: 2002001
+CPI: 9.37
+Written Analytics Test Score(out of 100) :73
+Interview Score(out of 100): 22
+Total Score(out of 10): 5.0605
+Roll no: 2010001
+CPI: 7.36
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.069
+Roll no: 2004002
+CPI: 8.95
+Written Analytics Test Score(out of 100) :26
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.2525
+Roll no: 2004001
+CPI: 8.27
+Written Analytics Test Score(out of 100) :18
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.8705
+Roll no: 2004003
+CPI: 7.17
+Written Analytics Test Score(out of 100) :9
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.3905
+Roll no: 2011001
+CPI: 7.59
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.1035
+Roll no: 2012001
+CPI: 8.33
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.2145
+Roll no: 2011002
+CPI: 8.34
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.216
+Roll no: 2012002
+CPI: 7.12
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.033
+Roll no: 2002002
+CPI: 7.91
+Written Analytics Test Score(out of 100) :10
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.5365
+Roll no: 2003001
+CPI: 8.95
+Written Analytics Test Score(out of 100) :24
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.1825
+Roll no: 2006002
+CPI: 8.64
+Written Analytics Test Score(out of 100) :9
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.611
+Roll no: 2008001
+CPI: 8.11
+Written Analytics Test Score(out of 100) :40
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.6165
+Roll no: 2005001
+CPI: 8.44
+Written Analytics Test Score(out of 100) :9
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.581
+Roll no: 2010003
+CPI: 7.01
+Written Analytics Test Score(out of 100) :70
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.5015
+Roll no: 2001003
+CPI: 9.41
+Written Analytics Test Score(out of 100) :63
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.6165
+Roll no: 2003003
+CPI: 8.36
+Written Analytics Test Score(out of 100) :96
+Interview Score(out of 100): 74
+Total Score(out of 10): 8.314
+Roll no: 2007002
+CPI: 8.26
+Written Analytics Test Score(out of 100) :7
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.484
+Roll no: 2005003
+CPI: 7.71
+Written Analytics Test Score(out of 100) :81
+Interview Score(out of 100): 36
+Total Score(out of 10): 5.7915
+Roll no: 2010002
+CPI: 8.11
+Written Analytics Test Score(out of 100) :3
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.3215
+Roll no: 2005002
+CPI: 8.72
+Written Analytics Test Score(out of 100) :72
+Interview Score(out of 100): 30
+Total Score(out of 10): 5.328
+Roll no: 2009002
+CPI: 8.47
+Written Analytics Test Score(out of 100) :74
+Interview Score(out of 100): 18
+Total Score(out of 10): 4.7605
+Roll no: 2001002
+CPI: 9.11
+Written Analytics Test Score(out of 100) :49
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.0815
+Roll no: 2007001
+CPI: 7.93
+Written Analytics Test Score(out of 100) :72
+Interview Score(out of 100): 53
+Total Score(out of 10): 6.3595
+Roll no: 2003002
+CPI: 7.96
+Written Analytics Test Score(out of 100) :7
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.439
+Roll no: 2001001
+CPI: 8.35
+Written Analytics Test Score(out of 100) :40
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.6525
+Roll no: 2006001
+CPI: 8.35
+Written Analytics Test Score(out of 100) :39
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.6175
+Roll no: 2009001
+CPI: 8.22
+Written Analytics Test Score(out of 100) :49
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.948
+Roll no: 2002001
+CPI: 9.37
+Written Analytics Test Score(out of 100) :30
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.4555
+Roll no: 2010001
+CPI: 7.36
+Written Analytics Test Score(out of 100) :62
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.274
+Roll no: 2004002
+CPI: 8.95
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.3075
+Roll no: 2004001
+CPI: 8.27
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.2055
+Roll no: 2004003
+CPI: 7.17
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.0405
+Roll no: 2011001
+CPI: 7.59
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.1035
+Roll no: 2012001
+CPI: 8.33
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.2145
+Roll no: 2011002
+CPI: 8.34
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.216
+Roll no: 2012002
+CPI: 7.12
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.033
+Roll no: 2002002
+CPI: 7.91
+Written Analytics Test Score(out of 100) :95
+Interview Score(out of 100): 57
+Total Score(out of 10): 7.3615
+Roll no: 2003001
+CPI: 8.95
+Written Analytics Test Score(out of 100) :91
+Interview Score(out of 100): 37
+Total Score(out of 10): 6.3775
+Roll no: 2006002
+CPI: 8.64
+Written Analytics Test Score(out of 100) :77
+Interview Score(out of 100): 37
+Total Score(out of 10): 5.841
+Roll no: 2008001
+CPI: 8.11
+Written Analytics Test Score(out of 100) :71
+Interview Score(out of 100): 35
+Total Score(out of 10): 5.4515
+Roll no: 2005001
+CPI: 8.44
+Written Analytics Test Score(out of 100) :66
+Interview Score(out of 100): 88
+Total Score(out of 10): 7.976
+Roll no: 2010003
+CPI: 7.01
+Written Analytics Test Score(out of 100) :63
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.2565
+Roll no: 2001003
+CPI: 9.41
+Written Analytics Test Score(out of 100) :57
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.4065
+Roll no: 2003003
+CPI: 8.36
+Written Analytics Test Score(out of 100) :53
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.109
+Roll no: 2007002
+CPI: 8.26
+Written Analytics Test Score(out of 100) :52
+Interview Score(out of 100): 0
+Total Score(out of 10): 3.059
+Roll no: 2005003
+CPI: 7.71
+Written Analytics Test Score(out of 100) :35
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.3815
+Roll no: 2010002
+CPI: 8.11
+Written Analytics Test Score(out of 100) :29
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.2315
+Roll no: 2005002
+CPI: 8.72
+Written Analytics Test Score(out of 100) :20
+Interview Score(out of 100): 0
+Total Score(out of 10): 2.008
+Roll no: 2009002
+CPI: 8.47
+Written Analytics Test Score(out of 100) :16
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.8305
+Roll no: 2001002
+CPI: 9.11
+Written Analytics Test Score(out of 100) :12
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.7865
+Roll no: 2007001
+CPI: 7.93
+Written Analytics Test Score(out of 100) :9
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.5045
+Roll no: 2003002
+CPI: 7.96
+Written Analytics Test Score(out of 100) :8
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.474
+Roll no: 2001001
+CPI: 8.35
+Written Analytics Test Score(out of 100) :4
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.3925
+Roll no: 2006001
+CPI: 8.35
+Written Analytics Test Score(out of 100) :4
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.3925
+Roll no: 2009001
+CPI: 8.22
+Written Analytics Test Score(out of 100) :3
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.338
+Roll no: 2002001
+CPI: 9.37
+Written Analytics Test Score(out of 100) :2
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.4755
+Roll no: 2010001
+CPI: 7.36
+Written Analytics Test Score(out of 100) :1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.139
+Roll no: 2004002
+CPI: 8.95
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.3075
+Roll no: 2004001
+CPI: 8.27
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.2055
+Roll no: 2004003
+CPI: 7.17
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.0405
+Roll no: 2011001
+CPI: 7.59
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.1035
+Roll no: 2012001
+CPI: 8.33
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.2145
+Roll no: 2011002
+CPI: 8.34
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.216
+Roll no: 2012002
+CPI: 7.12
+Written Analytics Test Score(out of 100) :-1
+Interview Score(out of 100): 0
+Total Score(out of 10): 1.033
+Enter N to stop the process, Y to continue:
+Y
+Enter 1 to view the list of students sorted by CPI:
+Enter 2 to view the list of students sorted by branch and CPI
+Enter 3 to view company details:
+Enter 4 to carry out round 1 of the placement process:
+Enter 5 to carry out round 2 of the placement process:
+Enter 6 to view results after round 2:
+Enter 7 to view final results of the placement process(top 5 scorers for each)
+Enter 8 to view employees for each company:
+Enter 9 to view final placement statistics:
+7
+Top 5 scorers for Software Developer in Microsoft are:
+1. Roll no: 2001003 Final Score: 8.231
+2. Roll no: 2004002 Final Score: 8.14
+3. Roll no: 2004001 Final Score: 7.037
+4. Roll no: 2004003 Final Score: 5.397
+5. Roll no: 2001002 Final Score: 5.321
+Top 5 scorers for Software Engineer in Microsoft are:
+1. Roll no: 2004003 Final Score: 6.882
+2. Roll no: 2001001 Final Score: 6.685
+3. Roll no: 2002002 Final Score: 5.966
+4. Roll no: 2003001 Final Score: 5.035
+5. Roll no: 2004001 Final Score: 3.797
+Top 5 scorers for R&D in Microsoft are:
+1. Roll no: 2001003 Final Score: 7.061
+2. Roll no: 2004002 Final Score: 7.015
+3. Roll no: 2001001 Final Score: 6.595
+4. Roll no: 2002002 Final Score: 6.011
+5. Roll no: 2001002 Final Score: 5.726
+Top 5 scorers for Software Developer in Google are:
+1. Roll no: 2006002 Final Score: 9.234
+2. Roll no: 2005003 Final Score: 7.611
+3. Roll no: 2007002 Final Score: 6.721
+4. Roll no: 2003003 Final Score: 6.506
+5. Roll no: 2006001 Final Score: 4.84
+Top 5 scorers for Software Engineer in Google are:
+1. Roll no: 2005001 Final Score: 7.684
+2. Roll no: 2002001 Final Score: 6.382
+3. Roll no: 2006001 Final Score: 5.965
+4. Roll no: 2002002 Final Score: 5.786
+5. Roll no: 2001002 Final Score: 4.781
+Top 5 scorers for R&D in Google are:
+1. Roll no: 2002002 Final Score: 7.901
+2. Roll no: 2005001 Final Score: 6.694
+3. Roll no: 2003003 Final Score: 6.461
+4. Roll no: 2007001 Final Score: 6.148
+5. Roll no: 2002001 Final Score: 4.402
+Top 5 scorers for Software Developer in Amazon are:
+1. Roll no: 2006002 Final Score: 9.639
+2. Roll no: 2010001 Final Score: 7.531
+3. Roll no: 2001002 Final Score: 6.761
+4. Roll no: 2001003 Final Score: 5.711
+5. Roll no: 2007002 Final Score: 5.236
+Top 5 scorers for Software Engineer in Amazon are:
+1. Roll no: 2003001 Final Score: 8.995
+2. Roll no: 2005001 Final Score: 6.829
+3. Roll no: 2001003 Final Score: 6.746
+4. Roll no: 2010001 Final Score: 6.046
+5. Roll no: 2009001 Final Score: 5.412
+Top 5 scorers for R&D in Amazon are:
+1. Roll no: 2003001 Final Score: 8.41
+2. Roll no: 2005002 Final Score: 7.442
+3. Roll no: 2011001 Final Score: 6.879
+4. Roll no: 2004001 Final Score: 6.227
+5. Roll no: 2001003 Final Score: 6.116
+Top 5 scorers for Software Developer in Meta are:
+1. Roll no: 2001003 Final Score: 8.771
+2. Roll no: 2001002 Final Score: 6.671
+3. Roll no: 2002002 Final Score: 6.146
+4. Roll no: 2004001 Final Score: 5.642
+5. Roll no: 2002001 Final Score: 3.412
+Top 5 scorers for Software Engineer in Meta are:
+1. Roll no: 2003002 Final Score: 7.951
+2. Roll no: 2003001 Final Score: 7.465
+3. Roll no: 2002001 Final Score: 6.562
+4. Roll no: 2004003 Final Score: 5.982
+5. Roll no: 2002002 Final Score: 4.616
+Top 5 scorers for R&D in Meta are:
+1. Roll no: 2004003 Final Score: 8.592
+2. Roll no: 2003002 Final Score: 8.311
+3. Roll no: 2002001 Final Score: 8.137
+4. Roll no: 2004002 Final Score: 7.78
+5. Roll no: 2002002 Final Score: 6.866
+Top 5 scorers for Quant in Goldman Sachs are:
+1. Roll no: 2003003 Final Score: 9.352
+2. Roll no: 2005003 Final Score: 9.142
+3. Roll no: 2003001 Final Score: 8.43
+4. Roll no: 2004002 Final Score: 7.79
+5. Roll no: 2007002 Final Score: 7.732
+Top 5 scorers for Algorithmic Trader in Goldman Sachs are:
+1. Roll no: 2001003 Final Score: 8.602
+2. Roll no: 2005002 Final Score: 7.744
+3. Roll no: 2006001 Final Score: 6.83
+4. Roll no: 2002002 Final Score: 5.822
+5. Roll no: 2001002 Final Score: 5.462
+Top 5 scorers for Quant in JP Morgan are:
+1. Roll no: 2001001 Final Score: 8.27
+2. Roll no: 2003002 Final Score: 6.832
+3. Roll no: 2002002 Final Score: 6.742
+4. Roll no: 2002001 Final Score: 6.594
+5. Roll no: 2001002 Final Score: 6.502
+Top 5 scorers for Algorithmic Trader in JP Morgan are:
+1. Roll no: 2004001 Final Score: 9.174
+2. Roll no: 2004002 Final Score: 8.79
+3. Roll no: 2002001 Final Score: 7.674
+4. Roll no: 2002002 Final Score: 7.182
+5. Roll no: 2003002 Final Score: 4.792
+Top 5 scorers for Quant in Jane Street are:
+1. Roll no: 2003003 Final Score: 7.312
+2. Roll no: 2002001 Final Score: 6.954
+3. Roll no: 2002002 Final Score: 6.422
+4. Roll no: 2003002 Final Score: 6.392
+5. Roll no: 2003001 Final Score: 6.27
+Top 5 scorers for Algorithmic Trader in Jane Street are:
+1. Roll no: 2003003 Final Score: 7.152
+2. Roll no: 2003001 Final Score: 6.67
+3. Roll no: 2002002 Final Score: 6.582
+4. Roll no: 2003002 Final Score: 5.152
+5. Roll no: 2001003 Final Score: 3.682
+Top 5 scorers for Graduate Engineer Trainee in Larsen & Toubro are:
+1. Roll no: 2009001 Final Score: 7.922
+2. Roll no: 2007002 Final Score: 7.566
+3. Roll no: 2006001 Final Score: 6.295
+4. Roll no: 2008001 Final Score: 5.571
+5. Roll no: 2005003 Final Score: 5.421
+Top 5 scorers for Graduate Engineer Trainee in Reliance Industries are:
+1. Roll no: 2008001 Final Score: 8.691
+2. Roll no: 2010003 Final Score: 8.651
+3. Roll no: 2007002 Final Score: 7.176
+4. Roll no: 2012001 Final Score: 6.963
+5. Roll no: 2007001 Final Score: 6.543
+Top 5 scorers for Graduate Engineer Trainee in Mercedes are:
+1. Roll no: 2012001 Final Score: 7.333
+2. Roll no: 2005003 Final Score: 6.831
+3. Roll no: 2005001 Final Score: 6.694
+4. Roll no: 2004001 Final Score: 5.367
+5. Roll no: 2007001 Final Score: 4.063
+Top 5 scorers for Graduate Engineer Trainee in Texas Instruments are:
+1. Roll no: 2005002 Final Score: 7.902
+2. Roll no: 2005003 Final Score: 7.681
+3. Roll no: 2011001 Final Score: 6.649
+4. Roll no: 2007001 Final Score: 6.273
+5. Roll no: 2007002 Final Score: 4.926
+Top 5 scorers for Graduate Engineer Trainee in Samsung are:
+1. Roll no: 2005001 Final Score: 7.554
+2. Roll no: 2005003 Final Score: 7.121
+3. Roll no: 2006002 Final Score: 6.934
+4. Roll no: 2007002 Final Score: 5.106
+5. Roll no: 2007001 Final Score: 4.933
+Top 5 scorers for Graduate Engineer Trainee in Lupin Ltd are:
+1. Roll no: 2009002 Final Score: 9.037
+2. Roll no: 2006002 Final Score: 8.744
+3. Roll no: 2012001 Final Score: 7.083
+4. Roll no: 2006001 Final Score: 6.525
+5. Roll no: 2011001 Final Score: 6.179
+Top 5 scorers for Business Analsyt in Boston Consulting Group are:
+1. Roll no: 2004001 Final Score: 8.2305
+2. Roll no: 2001001 Final Score: 6.5525
+3. Roll no: 2003002 Final Score: 5.284
+4. Roll no: 2004003 Final Score: 4.3955
+5. Roll no: 2002001 Final Score: 4.3555
+Top 5 scorers for Marketing Manager in Boston Consulting Group are:
+1. Roll no: 2003002 Final Score: 8.194
+2. Roll no: 2001002 Final Score: 7.8015
+3. Roll no: 2003001 Final Score: 6.6475
+4. Roll no: 2001003 Final Score: 5.5265
+5. Roll no: 2002001 Final Score: 5.0605
+Top 5 scorers for Business Analsyt in McKinsey & Company are:
+1. Roll no: 2003003 Final Score: 8.314
+2. Roll no: 2007001 Final Score: 6.3595
+3. Roll no: 2005003 Final Score: 5.7915
+4. Roll no: 2005002 Final Score: 5.328
+5. Roll no: 2009002 Final Score: 4.7605
+Top 5 scorers for Marketing Manager in McKinsey & Company are:
+1. Roll no: 2005001 Final Score: 7.976
+2. Roll no: 2002002 Final Score: 7.3615
+3. Roll no: 2003001 Final Score: 6.3775
+4. Roll no: 2006002 Final Score: 5.841
+5. Roll no: 2008001 Final Score: 5.4515
+Final Placement results:
+2001003
+9.41
+1
+Goldman Sachs
+Algorithmic Trader
+1.01e+07
+2002001
+9.37
+1
+Google
+R&D
+7e+06
+2001002
+9.11
+1
+Meta
+Software Developer
+4.2e+06
+2003001
+8.95
+1
+Amazon
+R&D
+7.3e+06
+2004002
+8.95
+1
+Microsoft
+R&D
+6.5e+06
+2005002
+8.72
+1
+Texas Instruments
+Graduate Engineer Trainee
+2.35e+06
+2006002
+8.64
+1
+Amazon
+Software Developer
+4.7e+06
+2009002
+8.47
+1
+Lupin Ltd
+Graduate Engineer Trainee
+1.55e+06
+2005001
+8.44
+1
+McKinsey & Company
+Marketing Manager
+5.8e+06
+2003003
+8.36
+1
+Goldman Sachs
+Quant
+9.3e+06
+2001001
+8.35
+1
+JP Morgan
+Quant
+5.5e+06
+2006001
+8.35
+1
+Google
+Software Engineer
+5.1e+06
+2012001
+8.33
+1
+Mercedes
+Graduate Engineer Trainee
+1.75e+06
+2004001
+8.27
+1
+JP Morgan
+Algorithmic Trader
+8e+06
+2007002
+8.26
+1
+Samsung
+Graduate Engineer Trainee
+2.55e+06
+2009001
+8.22
+1
+Larsen & Toubro
+Graduate Engineer Trainee
+1.5e+06
+2008001
+8.11
+1
+Reliance Industries
+Graduate Engineer Trainee
+1.6e+06
+2003002
+7.96
+1
+Boston Consulting Group
+Marketing Manager
+6.4e+06
+2007001
+7.93
+1
+McKinsey & Company
+Business Analsyt
+5.6e+06
+2002002
+7.91
+1
+Jane Street
+Algorithmic Trader
+7.1e+06
+2005003
+7.71
+1
+Google
+Software Developer
+4.5e+06
+2010001
+7.36
+1
+Amazon
+Software Engineer
+3.8e+06
+2004003
+7.17
+1
+Meta
+R&D
+6e+06
+No of people not placed yet:5
+Enter N to stop the process, Y to continue:
+Y
+Enter 1 to view the list of students sorted by CPI:
+Enter 2 to view the list of students sorted by branch and CPI
+Enter 3 to view company details:
+Enter 4 to carry out round 1 of the placement process:
+Enter 5 to carry out round 2 of the placement process:
+Enter 6 to view results after round 2:
+Enter 7 to view final results of the placement process(top 5 scorers for each)
+Enter 8 to view employees for each company:
+Enter 9 to view final placement statistics:
+8
+Microsoft
+Job 1
+Roll no: 2004002
+Branch: ECE
+Branch code: 4
+Job Title: R&D
+CTC: 6.5e+06
+Google
+Job 1
+Roll no: 2005003
+Branch: EEE
+Branch code: 5
+Job Title: Software Developer
+CTC: 4.5e+06
+Job 2
+Roll no: 2006001
+Branch: ME
+Branch code: 6
+Job Title: Software Engineer
+CTC: 5.1e+06
+Job 3
+Roll no: 2002001
+Branch: DSAI
+Branch code: 2
+Job Title: R&D
+CTC: 7e+06
+Amazon
+Job 1
+Roll no: 2010001
+Branch: CE
+Branch code: 10
+Job Title: Software Engineer
+CTC: 3.8e+06
+Job 2
+Roll no: 2006002
+Branch: ME
+Branch code: 6
+Job Title: Software Developer
+CTC: 4.7e+06
+Job 3
+Roll no: 2003001
+Branch: MnC
+Branch code: 3
+Job Title: R&D
+CTC: 7.3e+06
+Meta
+Job 1
+Roll no: 2004003
+Branch: ECE
+Branch code: 4
+Job Title: R&D
+CTC: 6e+06
+Job 2
+Roll no: 2001002
+Branch: CSE
+Branch code: 1
+Job Title: Software Developer
+CTC: 4.2e+06
+Goldman Sachs
+Job 1
+Roll no: 2003003
+Branch: MnC
+Branch code: 3
+Job Title: Quant
+CTC: 9.3e+06
+Job 2
+Roll no: 2001003
+Branch: CSE
+Branch code: 1
+Job Title: Algorithmic Trader
+CTC: 1.01e+07
+JP Morgan
+Job 1
+Roll no: 2004001
+Branch: ECE
+Branch code: 4
+Job Title: Algorithmic Trader
+CTC: 8e+06
+Job 2
+Roll no: 2001001
+Branch: CSE
+Branch code: 1
+Job Title: Quant
+CTC: 5.5e+06
+Jane Street
+Job 1
+Roll no: 2002002
+Branch: DSAI
+Branch code: 2
+Job Title: Algorithmic Trader
+CTC: 7.1e+06
+Larsen & Toubro
+Job 1
+Roll no: 2009001
+Branch: CL
+Branch code: 9
+Job Title: Graduate Engineer Trainee
+CTC: 1.5e+06
+Reliance Industries
+Job 1
+Roll no: 2008001
+Branch: EnE
+Branch code: 8
+Job Title: Graduate Engineer Trainee
+CTC: 1.6e+06
+Mercedes
+Job 1
+Roll no: 2012001
+Branch: BSBE
+Branch code: 12
+Job Title: Graduate Engineer Trainee
+CTC: 1.75e+06
+Texas Instruments
+Job 1
+Roll no: 2005002
+Branch: EEE
+Branch code: 5
+Job Title: Graduate Engineer Trainee
+CTC: 2.35e+06
+Samsung
+Job 1
+Roll no: 2007002
+Branch: EP
+Branch code: 7
+Job Title: Graduate Engineer Trainee
+CTC: 2.55e+06
+Lupin Ltd
+Job 1
+Roll no: 2009002
+Branch: CL
+Branch code: 9
+Job Title: Graduate Engineer Trainee
+CTC: 1.55e+06
+Boston Consulting Group
+Job 1
+Roll no: 2003002
+Branch: MnC
+Branch code: 3
+Job Title: Marketing Manager
+CTC: 6.4e+06
+McKinsey & Company
+Job 1
+Roll no: 2007001
+Branch: EP
+Branch code: 7
+Job Title: Business Analsyt
+CTC: 5.6e+06
+Job 2
+Roll no: 2005001
+Branch: EEE
+Branch code: 5
+Job Title: Marketing Manager
+CTC: 5.8e+06
+Total number of jobs offered: 23
+Enter N to stop the process, Y to continue:
+Y
+Enter 1 to view the list of students sorted by CPI:
+Enter 2 to view the list of students sorted by branch and CPI
+Enter 3 to view company details:
+Enter 4 to carry out round 1 of the placement process:
+Enter 5 to carry out round 2 of the placement process:
+Enter 6 to view results after round 2:
+Enter 7 to view final results of the placement process(top 5 scorers for each)
+Enter 8 to view employees for each company:
+Enter 9 to view final placement statistics:
+9
+Branch-wise statistics:
+Average CTC for CSE is : 6.6e+06
+Maximum CTC for CSE is : 1.01e+07
+Placement Rate for CSE is : 100%
+Average CTC for DSAI is : 7.05e+06
+Maximum CTC for DSAI is : 7.1e+06
+Placement Rate for DSAI is : 100%
+Average CTC for MnC is : 7.66667e+06
+Maximum CTC for MnC is : 9.3e+06
+Placement Rate for MnC is : 100%
+Average CTC for ECE is : 6.83333e+06
+Maximum CTC for ECE is : 8e+06
+Placement Rate for ECE is : 100%
+Average CTC for EEE is : 4.21667e+06
+Maximum CTC for EEE is : 5.8e+06
+Placement Rate for EEE is : 100%
+Average CTC for ME is : 4.9e+06
+Maximum CTC for ME is : 5.1e+06
+Placement Rate for ME is : 100%
+Average CTC for EP is : 4.075e+06
+Maximum CTC for EP is : 5.6e+06
+Placement Rate for EP is : 100%
+Average CTC for EnE is : 1.6e+06
+Maximum CTC for EnE is : 1.6e+06
+Placement Rate for EnE is : 100%
+Average CTC for CL is : 1.525e+06
+Maximum CTC for CL is : 1.55e+06
+Placement Rate for CL is : 100%
+Average CTC for CE is : 3.8e+06
+Maximum CTC for CE is : 3.8e+06
+Placement Rate for CE is : 33.3333%
+Average CTC for CST is : 0
+Maximum CTC for CST is : 0
+Placement Rate for CST is : 0%
+Average CTC for BSBE is : 1.75e+06
+Maximum CTC for BSBE is : 1.75e+06
+Placement Rate for BSBE is : 50%
+Enter N to stop the process, Y to continue:
+N
+(base) user@Users-MacBook-Pro course_project_220150019 % 
