@@ -1,5 +1,7 @@
 # Placement Simulation System Overview
 
+Various data structures like linked lists, queues and arrays as well as different types of sorting algorithms are used in this project, including an algorithm to handle the assignment of jobs to students.
+
 ## Student and Company Structure
 
 ### Student Details
