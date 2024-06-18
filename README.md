@@ -1,7 +1,5 @@
 # Placement Simulation System Overview
 
-Various data structures like linked lists, queues and arrays as well as different types of sorting algorithms are used in this project, including an algorithm to handle the assignment of jobs to students.
-
 ## Project Overview
 
 The Placement Simulation System is an advanced simulation tool designed to mimic the real-world student placement process at educational institutions. Utilizing a variety of data structures such as stacks, queues, linked lists, and arrays, this system provides a comprehensive environment to manage and evaluate student performance across multiple stages of placement procedures.
