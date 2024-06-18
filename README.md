@@ -1,44 +1,64 @@
-Placement Simulation System
-Overview
-This system leverages data structures such as stacks, queues, linked lists, and arrays to simulate the student placement process.
+# Placement Simulation System Overview
 
-Key Components
-Student Details
-Structure: Each student is characterized by attributes such as branch, roll number, CPI, and project count.
-Performance Tracking: Arrays store each student's performance across various placement rounds for different companies.
-Functional Methods: Includes capabilities like display_studentlist and sort_by_branch_and_CPI.
-Company Details
-Structure: Attributes include the company's name, founding year, type, and tier.
-Roles: Specific roles are defined for tech companies, such as Software Developer, Software Engineer, and R&D.
-Total Companies: 15 companies are initialized with detailed attributes and roles.
-Sorting and Eligibility
-Sorting Algorithms
-CPI Sorting: Utilizes a modified Bubble sort algorithm that terminates if no swaps occur in the last iteration.
-Branch and CPI Sorting: A two-step sorting process first categorizes students by branch, then sorts them by CPI within each branch.
-Eligibility Criteria
-Branch-Based: Defines eligibility for different company types based on the student's academic branch, with specific exclusions (e.g., CSE students are ineligible for core companies).
-Simulation of Placement Rounds
-Initial Scoring
-Random Assignment: First round scores are randomly assigned to eligible students using the rand function.
-Score Viewing: Method available to view the first round scores for all eligible companies per student.
-Interview Round
-Top Scorers: Functionality to view the top 5 scorers in round 1 for each job type.
-Queue Management: Uses queues of students for each job to facilitate the interview process efficiently.
-Interview and Final Scoring
-Scoring Assignment
-Interview Scores: Random values are assigned to students in the top 5 for each job, with the queue ensuring that scoring starts with the highest first-round scorer.
-Total Score Calculation
-Weighted Scoring: Combines scores from the first round, interview round, and CPI, with different weightages applied according to job type.
-Final Results and Placement Process
-Result Viewing
-Detailed Scores: Before declaring final results, options are available to view detailed scores for each student.
-Job Assignment
-Sorting and Selection: Students are sorted by total score, and the top 5 for each job are identified and stored in a 2D array and a queue.
-Placement Iterations: Runs 10 iterations of the placement process, handling already placed students by removing them from the list of the top 5 highest scorers of all jobs, and assigning jobs based on highest scores.
-Additional Functionalities
-Company Employees
-Linked List Traversal: Allows viewing all employees of a particular company by traversing its linked list.
-Placement Statistics
-Statistical Analysis: Calculates average CTC, max CTC, and placement percentage by branch.
-System Operation
-Driver Function: Manages user inputs and calls necessary functions for the smooth operation of the system.
+## Student and Company Structure
+
+### Student Details
+- Defined in `student_details.cpp`
+- Attributes include branch, roll number, CPI, and number of projects
+- Arrays to store performance in various placement rounds for each company
+- Class methods for operations like `display_studentlist` and `sort_by_branch_and_CPI`
+
+### Company Details
+- Attributes include name, year of founding, type, and tier
+- Specific roles for tech companies such as Software Developer, Software Engineer, and R&D
+- Total of 15 companies initialized with specific job roles based on company type
+
+## Sorting and Eligibility
+
+### Sorting Methods
+- Modified Bubble sort for sorting by CPI
+- Multi-level sorting first by branch, then by CPI within each branch
+
+### Eligibility Declaration
+- Based on student’s branch, e.g., CSE students are eligible for all but core companies
+
+## Simulation of Placement Rounds
+
+### Initial Score Assignment
+- Random values assigned to students' first round scores based on eligibility using the `rand` function
+
+### Viewing Results
+- Method available to view first round scores for all eligible companies per student
+
+### Interview Round Preparation
+- Viewing top 5 scorers in round 1 for each job type
+- Queues of students set up for each job to facilitate interview process efficiently
+
+## Interview and Final Scoring
+
+### Scoring Assignment
+- Random values are assigned to students in the top 5 for each job, with the queue ensuring that scoring starts with the highest first-round scorer
+
+### Total Score Calculation
+- Combines first round, interview round, and CPI with predetermined weightage for each
+
+## Final Results and Placement Process
+
+### Result Viewing
+- Options to view scores from both rounds and total scores before final results
+
+### Job Assignment
+- Sort students by total score and select top 5 for each job
+- Stored in a 2D array and a queue for job assignment
+- 10 iterations of the placement process with conditions for already placed students and highest scoring unplaced students
+
+## Additional Functionalities
+
+### Company Employee Viewer
+- Traverses a linked list to view all employees of a company
+
+### Placement Statistics
+- Calculates statistics like average CTC, max CTC, and placement percentage by branch
+
+### System Operation
+- Driver function manages user inputs and calls required functions for system operation
