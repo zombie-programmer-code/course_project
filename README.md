@@ -21,7 +21,7 @@ This queue will make processing during the interview much easier, as interviews 
 
 To simulate the interview round, we iterate over the list of jobs, then for each job, we assign a random value to the interview score of each student who was in the top 5 of the first round for that particular job(the queue here ensures that the score is assigned first for the candidate who scored the highest in the first round
 Finally, for each job, the total score(based on the first round, interview round and CPI) is calculated. Different types of jobs place different weightage on each parameter, just like companies do in real life.
-The weighatge has been hard-coded but in a real system, we can always take the weights as input. 
+The weightage has been hard-coded but in a real system, we can always take the weights as input. 
 
 Before the final results are declared, there is an option to view the score each student has received in both the rounds and the total score, for each job type.
 
