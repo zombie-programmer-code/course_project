@@ -1,5 +1,4 @@
-
-#A Simulation of the placement procedure using Data Structures like stacks, queues, linked lists, arrays
+##A Simulation of the placement procedure using Data Structures like stacks, queues, linked lists, arrays
 
 A list of students has been pre-declared in the file student_details.cpp, along with their branch, roll number, CPI(Cumulative Performance Index) and the number of projects made by each student.
 A student has been declared using a student struct, each several attributes like the ones mentioned above and some arrays to store the student's performance in the various rounds of placement for each company.
