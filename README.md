@@ -52,7 +52,7 @@ Various data structures like linked lists, queues and arrays as well as differen
 ### Job Assignment
 - Sort students by total score and select top 5 for each job
 - Stored in a 2D array and a queue for job assignment
-- 10 iterations of the placement process with conditions for already placed students and highest scoring unplaced students
+- 10 iterations of the placement process with conditions for already placed students and highest scoring unplaced students. If a student is already placed, them the student is removed from the list of top 5 scorers of all jobs.
 
 ## Additional Functionalities
 
